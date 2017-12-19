@@ -1,0 +1,1617 @@
+--- frem-til-2018-01-01.txt	2017-12-19 23:02:04.944894793 +0100
++++ fra-2018-01-01.txt	2017-12-19 23:02:01.052961872 +0100
+@@ -1,6 +1,6 @@
+                Betingelser for MobilePay
+ Forbrugere
+-Gælder fra den 01.10.2017
++Gælder fra den 1. januar 2018
+ 
+ Indledning
+ MobilePay er en mobilbetalingsløsning som udbydes i Danmark af MobilePay
+@@ -37,12 +37,20 @@
+ A1. Aftalens parter
+ Når du tilmelder dig MobilePay, indgår du en aftale med MobilePay Denmark
+ A/S. Holmens Kanal 2-12. 1060 København K, Danmark. CVR: 38 29 21 88.
+-Vores mail-adresse er: info@mobilepay.dk
++Vores e-mailadresse er: info@mobilepay.dk
++Brug af MobilePay, herunder tilknyttede services, du aktiverer eller tilmelder
++dig, indebærer, at du afgiver et samtykke til behandling af dine
++personoplysninger. Du kan læse mere om samtykket i pkt. A14. om Samtykke til
++behandling af personoplysninger/betalingsoplysninger og behandling af
++kundeoplysninger.
+ 
+-A2. Hvad skal der til, for at du kan tilmelde dig?
++Derudover kan du læse mere om samtykke til behandling af
++personoplysninger/betalingsoplysninger under de enkelte funktioner.
++
++A2. Hvad skal der til for at du kan tilmelde dig?
+ For at tilmelde dig skal du have
+-• en mobil enhed (fx smartphone eller tablet) og downloade MobilePay. Du
+-kan se, hvilke styresystemer, der kan anvendes, på mobilepay.dk.
++• en mobil enhed (fx smartphone eller tablet) og downloade MobilePay. Du
++kan se, hvilke styresystemer der kan anvendes, på mobilepay.dk.
+ • et dansk mobilnummer
+ • et dansk kreditkort eller debetkort som vi accepterer til brug i MobilePay.
+ Kortet skal være udstedt til dig. Du kan se de kort, vi for tiden accepterer, på
+@@ -51,7 +59,7 @@
+ • en e-mailadresse.
+ Desuden skal du bruge dit navn og CPR-nummer ved tilmelding/registrering.
+ Dit CPR-nummer kan kun tilknyttes én aftale om MobilePay. Det betyder, at du
+-kun kan indgå en MobilePay-aftale og tilknytte et mobilnummer til aftalen.
++kun kan indgå én MobilePay-aftale og tilknytte ét mobilnummer til aftalen.
+ Vi gemmer dine indtastede oplysninger i MobilePay Denmarks systemer. Du
+ skal være fyldt 13 år og have dit eget betalingskort for at kunne tilmelde dig.
+ 
+@@ -68,28 +76,29 @@
+ Du kan efter din tilmelding tilknytte op til seks af dine betalingskort. Har du
+ tilknyttet mere end et kort i MobilePay, bruger MobilePay som udgangspunkt
+ det kort, du har valgt som primært kort.
+-
+-A4. Aktiveringskode og selvvalgt kode
++A4. Aktiveringskode og selvvalgt kode
+ Når du registrerer dig i MobilePay, skal du bekræfte dit mobilnummer med en
+-tilsendt aktiveringskode og oprette en selvvalgt kode, som ikke må ikke være
++tilsendt aktiveringskode og oprette en selvvalgt kode, som ikke må være
+ identisk med pinkoden på det kort, du registrerer. Vi anbefaler samtidig, at du
+ ikke bruger en kode med ens eller fortløbende tal, og heller ikke samme kode,
+ som du låser din mobile enhed op med.
+ 
+ Når du først har åbnet appen, skal du ikke bruge kode for at sende eller
+-modtage penge eller for at bruge MobilePay til betaling på nettet. Hvis din
++modtage penge eller for at betale med kort via MobilePay på nettet. Hvis din
+ mobile enhed understøtter det, kan du efterfølgende aktivere dit fingeraftryk
+-som erstatning for den 4-cifrede kode. Du skal være opmærksom på, at alle
+-fingeraftryk, som er gemt på din mobile enhed, kan bruges til at logge på
+-MobilePay og bruge funktionerne. Du er derfor forpligtet til at sikre, at du alene
+-har aktiveret dine egne fingeraftryk, hvis du vil bruge dem som erstatning for
+-den 4-cifrede kode til MobilePay.
+-A5. Øvrige forpligtelser
++eller anvende din ansigtsscanning som erstatning for den 4-cifrede kode. Du
++skal være opmærksom på, at alle fingeraftryk, som er gemt på din mobile
++enhed, kan bruges til at logge på MobilePay og bruge funktionerne. Du er
++derfor forpligtet til at sikre, at du alene har aktiveret dine egne fingeraftryk, hvis
++du vil bruge dem som erstatning for den 4-cifrede kode til MobilePay.
++
++A5. Øvrige forpligtelser
+ Du har pligt til at sikre, at de oplysninger, du giver, er korrekte og opdaterede.
+ Det gælder fx kort-, konto- og mobilnummer og e-mailadresse. MobilePay
+-kontrollerer ikke dette, se dog pkt. A14.2 om videregivelse af kundeoplysninger.
++kontrollerer ikke dette, se dog pkt. A14.3 om videregivelse af kundeoplysninger.
+ Din MobilePay er personlig og må kun bruges af dig. Du må ikke oplyse dine
+ koder til andre, skrive dem ned eller opbevare dem på din mobile enhed.
++
+ MobilePay må kun benyttes til lovlige formål.
+ MobilePay må ikke anvendes til erhvervsmæssig brug. Erhvervsdrivende skal
+ benytte MobilePay til erhvervsdrivende (læs mere her). Du må gerne tilknytte et
+@@ -99,6 +108,7 @@
+ firmakort. MobilePay Denmark kontrollerer ikke dette.
+ MobilePay må ikke bruges til offentlige indsamlinger uden MobilePay
+ Denmarks forudgående skriftlige godkendelse.
++
+ Du må ikke bruge MobilePay på en måde, der chikanerer andre MobilePay-
+ brugere. Hvis vi vurderer, at det sker, vil vi betragte det som væsentlig
+ misligholdelse af aftalen med MobilePay Denmark. Det betyder, at vi i en
+@@ -107,11 +117,11 @@
+ tilhører den tiltænkte modtager, og du skal selv kontrollere, at beløbet er
+ korrekt. Du har også selv ansvar for at oplyse korrekt mobilnummer til personer
+ og erhvervsdrivende, der vil overføre penge til dig, og du skal selv sikre, at du
+-har knyttet den rette konto til din MobilePay. MobilePay Denmark kontrollerer
+-ikke dette.
+-Du må ikke benytte MobilePay til betaling, hvis du er bevidst om, at der ikke er
++har knyttet den rette (modtager-)konto til din MobilePay.
++Du må ikke benytte MobilePay til betaling, hvis du er bevidst om, at der ikke er
+ dækning for betalingen.
+-For at forhindre misbrug af MobilePay, skal du opbevare din mobile enhed, så
++
++For at forhindre misbrug af MobilePay skal du opbevare din mobile enhed, så
+ andre ikke kan få uhindret adgang. Hvis det er muligt, bør du låse enheden med
+ kode eller tastaturlås. Koden må ikke oplyses til andre.
+ Du har pligt til at legitimere dig yderligere over for MobilePay Denmark, hvis
+@@ -119,25 +129,26 @@
+ 
+ A6. Godt at vide om fortrydelsesret
+ Efter forbrugeraftaleloven kan du fortryde denne aftale inden for 14 dage efter,
+-du har tilmeldt dig MobilePay --- se dog næste afsnit.
++du har tilmeldt dig MobilePay – se dog nedenfor.
+ 
+ Fristen for fortrydelsesretten regnes som udgangspunkt fra den dag, du
+ modtager den aftalte ydelse. Det gælder dog kun, hvis du samtidig får de
+-oplysninger, du efter forbrugeraftaleloven har krav på --- blandt andet om
++oplysninger, du efter forbrugeraftaleloven har krav på – blandt andet om
+ fortrydelsesretten og om det produkt, du har bestilt. Ellers regnes fristen fra den
+ dag, du modtager oplysningerne.
+ 
+ Falder fortrydelsesfristens sidste dag på en lørdag, søndag, helligdag,
+ grundlovsdag, juleaftensdag, nytårsaftensdag eller fredag efter Kristi
+ himmelfartsdag, udløber fristen den følgende hverdag.
+-Fortrydelsesretten bortfalder inden 14-dages-fristens udløb, når aftalen efter
++
++Fortrydelsesretten bortfalder inden 14-dages-fristens udløb, når aftalen efter
+ din udtrykkelige anmodning er blevet opfyldt af både dig og MobilePay
+ Denmark. Det vil ofte være tilfældet fx med betalingsoverførsler. OBS: Det
+ betyder, at hvis du først har overført beløb via MobilePay, kan du ikke fortryde
+ aftalen.
+ Fortryder du aftalen, skal du blot ringe på (+45) 45 144 447 eller skrive til
+-MobilePay Denmark inden fristen udløber, og give meddelelse om, at du
+-ønsker at udøve din fortrydelsesret.
++MobilePay Denmark inden fristen udløber og give meddelelse om, at du ønsker
++at udøve din fortrydelsesret.
+ 
+ Hvis du vil sikre dig bevis for, at du har overholdt fristen, kan du fx sende brevet
+ anbefalet og gemme kvitteringen.
+@@ -147,46 +158,47 @@
+ blanketten per e-mail.
+ 
+ A7. Spærring
+-A7.1 MobilePay Denmarks spærring af MobilePay
++A7.1 MobilePay Denmarks spærring af MobilePay
+ MobilePay Denmark har ret til uden varsel at spærre for din adgang til at
+ benytte MobilePay af sikkerhedsmæssige hensyn og/eller ved mistanke om
+ uberettiget brug, herunder hvis:
+ 
+-• det/de kort eller den konto, der er tilknyttet MobilePay, lukkes eller spærres
+-• betingelserne for MobilePay ikke overholdes, og dette medfører en risiko for
++• Det/de kort eller den konto, der er tilknyttet MobilePay, lukkes eller spærres
++• Betingelserne for MobilePay ikke overholdes, og dette medfører en risiko for
+ sikkerheden eller for uberettiget brug.
+-• mobilnummeret, der er tilknyttet MobilePay, er blevet misbrugt eller
++• Mobilnummeret, der er tilknyttet MobilePay, er blevet misbrugt eller
+ formodes misbrugt.
+ • MobilePay er blevet misbrugt eller formodes misbrugt af tredjemand.
+-• du har modtaget penge via MobilePay, der ikke er blevet autoriseret af den
++• Du har modtaget penge via MobilePay, der ikke er blevet autoriseret af den
+ MobilePay-bruger, som pengene er overført fra, eller hvis vi i øvrigt har en
+ formodning om, at der er sket uautoriserede overførsler fra din MobilePay.
+ 
+-Desuden kan vi spærre adgangen til MobilePay uden varsel, hvis MobilePay-
+-brugeren er helt eller delvist omfattet af sanktioner fra danske myndigheder, EU
+-eller FN, jf. Udenrigsministeriets oversigt over sanktioner, eller lignende (fx
+-amerikanske myndigheder som Office of Foreign Assets Control).
+-Endvidere kan vi spærre adgangen til MobilePay uden varsel, hvis MobilePay-
+-brugeren ikke giver MobilePay Denmark de oplysninger, som MobilePay
+-Denmark er forpligtet til at indhente fra MobilePay-brugeren i henhold til
+-lovgivningen, fx efter hvidvaskloven eller skattekontrolloven.
++Desuden kan vi spærre adgangen til MobilePay uden varsel, hvis du er helt
++eller delvist omfattet af sanktioner fra danske myndigheder, EU eller FN, jf.
++Udenrigsministeriets oversigt over sanktioner, eller lignende (fx amerikanske
++myndigheder som Office of Foreign Assets Control).
++
++Endvidere kan vi spærre adgangen til MobilePay uden varsel, hvis du ikke giver
++MobilePay Denmark de oplysninger, som MobilePay Denmark er forpligtet til
++at indhente fra MobilePay-brugeren i henhold til lovgivningen, fx efter
++hvidvaskloven eller skattekontrolloven.
+ 
+ Når vi spærrer for adgangen til MobilePay, underretter vi dig på forhånd om
+ årsagen samt datoen og tidspunktet for spærringen. Hvis en
+ forhåndsunderretning vil skade hensynet til sikkerheden, underretter vi dig
+-herom umiddelbart efter spærringen
++herom umiddelbart efter spærringen
+ 
+ A7.2 Din spærring af MobilePay
+ Du skal snarest muligt kontakte os for at spærre for MobilePay, hvis
+ 
+ • mobiltelefonen, SIM-kortet og/eller det/de tilknyttede betalingskort er tabt
+-eller stjålet --- eller hvis du har mistanke om det
++eller stjålet – eller hvis du har mistanke om det
+ • du opdager eller har mistanke om, at din MobilePay er blevet misbrugt.
+ 
+ Du spærrer din MobilePay døgnet rundt ved at ringe til os på (+45) 45 144 447
+-og oplyse dit mobilnummer. Så lukker vi for adgangen og sender dig en mail
+-med årsagen, datoen og tidspunktet for spærringen.
+-A8. Opsigelse/ophør
++og oplyse dit mobilnummer. Så lukker vi for adgangen og sender dig en
++bekræftelsesmail med årsagen, datoen og tidspunktet for spærringen.
++A8. Opsigelse/ophør
+ A8.1 Din opsigelse af MobilePay
+ Du kan opsige din MobilePay-aftale med MobilePay Denmark skriftligt eller
+ telefonisk uden varsel. Hvis du overdrager mobilnummeret eller nedlægger
+@@ -203,7 +215,8 @@
+ 
+ A9. Gebyrer
+ MobilePay Denmark opkræver p.t. ikke gebyr for brug af MobilePay, heller ikke
+-for brug af MobilePay til betaling med kort på nettet --- men den
++tilmeldingsgebyr eller opsigelsesgebyr. MobilePay Denmark opkræver heller
++ikke gebyr for brug af MobilePay til betaling med kort på nettet – men den
+ erhvervsdrivende, som du handler hos, kan evt. opkræve et gebyr. Du skal
+ betale omkostninger til din teleudbyder for at bruge din mobile enhed, og din
+ kortudsteder kan opkræve gebyr for brug af dit kort.
+@@ -211,13 +224,14 @@
+ meddelelse om ændrede betingelser med to måneders varsel.
+ 
+ A10. Ændringer
+-Du får besked i din app, hvis vi ændrer betingelserne. Vi kan ændre dem uden
+-varsel, hvis ændringerne er til fordel for dig. Hvis ikke, får du to måneders varsel.
+-Du kan læse betingelserne i din app eller på mobilepay.dk, hvorfra du også kan
+-printe, downloade eller maile dem.
++Du får besked i din MobilePay-app, hvis vi ændrer betingelserne. Vi kan ændre
++dem uden varsel, hvis ændringerne er til fordel for dig. Hvis ikke, får du to
++måneders varsel. Du kan læse betingelserne i din app eller på mobilepay.dk,
++hvorfra du også kan printe, downloade eller maile dem.
++
+ Hvis du ikke ønsker at være omfattet af de nye betingelser, skal du give os
+ besked. Hvis du meddeler, at du ikke ønsker at være omfattet af de nye
+-betingelser, anser vi aftalen om MobilePay for at være ophørt fra det tidspunkt,
++betingelser, anser vi aftalen om MobilePay for at være ophørt fra det tidspunkt,
+ de nye betingelser træder i kraft. Hører vi ikke fra dig, betragter vi det som din
+ accept af ændringerne.
+ 
+@@ -225,10 +239,10 @@
+ A11.1 Immaterielle rettigheder
+ Alle ophavsrettigheder, varemærker og andre immaterielle rettigheder til og
+ vedrørende MobilePay-produkterne og disses funktioner tilhører MobilePay
+-Denmark eller vores licensgivere. Du må ikke gengive, kopiere, fremvise,
++Denmark eller vores licensgivere. Du må ikke gengive, kopiere, fremvise,
+ overdrage, offentliggøre eller på anden måde bruge disse immaterielle
+-rettigheder eller MobilePay-produkterne, undtagen i den udstrækning der er
+-nødvendig for at anvende MobilePay-produkterne som forudsat i disse
++rettigheder eller MobilePay-produkterne, undtagen i den udstrækning det er
++nødvendigt for at anvende MobilePay-produkterne som forudsat i disse
+ betingelser. Du må dog gerne downloade og kopiere informationer og
+ materiale på MobilePay`s hjemmeside til din egen, personlige brug.
+ 
+@@ -236,16 +250,16 @@
+ Du får en ikke-eksklusiv og ikke-overdragelig licens til at bruge MobilePay-
+ appen som forudsat i disse betingelser på enhver smartphone eller tablet (iOS
+ eller Android), som du ejer eller kontrollerer. Du må ikke distribuere, udleje,
+-lease, udlåne, sub-licensere, overdrage, sælge eller gøre Appen tilgængelig
+-over et netværk. Du må heller ikke forsøge at udlede sourcekoden, modificere
+-eller skabe afledte værker af MobilePay-appen.
++lease, udlåne, sub-licensere, overdrage, sælge eller gøre MobilePay-appen
++tilgængelig over et netværk. Du må heller ikke forsøge at udlede sourcekoden,
++modificere eller skabe afledte værker af MobilePay-appen.
+ 
+ A12. Elektroniske spor
+-Når du downloader appen, tilmelder dig og bruger MobilePay, vil MobilePay
+-Denmark opsamle informationer, som du efterlader som elektroniske spor ved
+-din brug af MobilePay, såsom hvilke skærmbilleder i MobilePay-appen du har
+-været på, hvilken mobil enhed du bruger, hvilket operativsystem du har, og
+-hvilken ip-adresse du har.
++Når du downloader MobilePay-appen, tilmelder dig og bruger MobilePay, vil
++MobilePay Denmark opsamle informationer, som du efterlader som
++elektroniske spor ved din brug af MobilePay, såsom hvilke skærmbilleder i
++MobilePay-appen du har været på, hvilken mobil enhed du bruger, hvilket
++operativsystem du har og hvilken ip-adresse du har.
+ Vi bruger oplysningerne, når vi afvikler driften og udarbejder statistik, fx for at
+ forbedre MobilePay. Af tekniske årsager er det ikke muligt at bruge MobilePay
+ uden brug af elektroniske spor. De elektroniske spor kan ikke bruges til at
+@@ -256,34 +270,64 @@
+ Aftalen indgås på dansk og vores kommunikation foregår på dansk.
+ Du modtager som udgangspunkt alle meddelelser i henhold til denne aftale i
+ din MobilePay-app. I visse situationer vil vi også benytte den e-mailadresse, du
+-har oplyst. Læs mere under A14.1.
++har oplyst. Læs mere under A14.2 og A15.
++
++A14. Samtykke til behandling af personoplysninger/betalingsoplysninger og
++behandling af kundeoplysninger
++A14.1. Samtykke til behandling af personoplysninger/betalingsoplysninger
++Når du downloader og tilmelder dig MobilePay, samtykker du i, at vi behandler
++personoplysninger om dig, når du bruger MobilePay og MobilePay-funktioner.
++Du samtykker også i, at vi kan videregive dine personoplysninger – se mere
++herom under pkt. A14.3.
++Du samtykker i, at MobilePay behandler personoplysninger om dig, når du
++bruger MobilePays funktioner. Personoplysningerne, som behandles, er fx
++oplysninger som navn, adresse, CPR-nummer, kort- og kontonumre,
++oplysninger om betalingstransaktioner, herunder hvor du har brugt MobilePay,
++hvem du har overført penge til eller modtaget penge fra og hvordan du bruger
++MobilePay.
+ 
+-A14. Kundeoplysninger
+-A14.1. Behandling af kundeoplysninger
++Oplysningerne anvendes til at levere de funktioner og yde de serviceydelser,
++som MobilePay udbyder, til dig, herunder til at gennemføre
++betalingstransaktioner, generere posteringer, generere posteringsoversigter
++og foretage lovpligtige indberetninger til offentlige myndigheder og
++Finanstilsynet. I øvrigt behandles oplysningerne i overensstemmelse med
++bestemmelserne nedenfor om behandling af kundeoplysninger.
++Du kan altid tilbagekalde dit samtykke, men det vil have den konsekvens, at du
++ikke længere kan benytte de funktioner, som MobilePay udbyder.
++
++Alt efter hvilke MobilePay-funktioner, du benytter, kan der være yderligere
++samtykker, du giver. Læs fx D2, E2, F1, H2 og I2.
++
++
++A14.2. Behandling af kundeoplysninger
+ MobilePay Denmark modtager en række oplysninger om dig som følge af din
+ aftale med MobilePay.
+ I det følgende kan du læse, hvilke oplysninger det drejer sig om, og hvad vi
+ bruger oplysningerne til.
++
+ Når du opretter dig som bruger af MobilePay, beder vi om en række
+-oplysninger, fx navn, adresse, CPR-nummer og e-mailadresse. Vi får også
+-løbende nye oplysninger om, hvordan du bruger MobilePay. Fx når du
+-overfører til andre brugere eller betaler med MobilePay, registrerer vi dit og
+-modtagers mobilnummer, kontonummer, beløb samt dato for overførsel.
++oplysninger fx mobilnummer, navn, adresse, CPR-nummer, e-mailadresse samt
++kort- og kontooplysninger. Vi får også løbende nye oplysninger om, hvordan du
++bruger MobilePay. Fx når du overfører til andre brugere eller betaler med
++MobilePay, registrerer vi dit og modtagers mobilnummer, kontonummer, beløb,
++evt. besked samt dato for overførsel.
+ I nogle tilfælde kan MobilePay desuden hente oplysninger fra offentligt
+ tilgængelige kilder og registre. Det kan fx være fra Det Centrale Personregister
+ (CPR), hvis du har ændret adresse.
++
+ Oplysningerne om dig og din brug af MobilePay bruger vi typisk til
+ administration - fx til at gennemføre MobilePay-betalinger, vise dine
+-MobilePay posteringer, foretage fejlrettelser eller for at kunne understøtte de
++MobilePay-posteringer, foretage fejlrettelser eller for at kunne understøtte de
+ funktioner, du har tilmeldt dig i MobilePay. Hvis du fx vælger at bruge
+ MobilePay Bonus, vil vi behandle oplysninger om dit CPR-nummer eller NemID
+ til brug for registrering, beregning, optjening og anden håndtering af
+-MobilePay Bonus. Du kan læse mere om de konkrete oplysninger, der
++MobilePay Bonus. Du kan læse mere om de konkrete oplysninger, der
+ behandles i forbindelse med de funktioner, du bruger, under betingelserne for
+-de relevante funktioner, herunder pkt. D3 om visning af kvitteringer via
+-MobilePay, E1-E2 om MobilePay Bonus, F1 om Medlemskaber, H2 om
+-MobilePay Connect og I2 om Skatteindberetning af donationer med
++de relevante funktioner, herunder pkt. C2.1 om funktioner, D2- D3 om visning af
++kvitteringer via MobilePay, E1-E2 om MobilePay Bonus, F1 om Medlemskaber,
++H2 om MobilePay Connect og I2 om Skatteindberetning af donationer med
+ MobilePay.
++
+ Desuden bruger vi informationerne til servicemeddelelser og rådgivning og for
+ at kunne tilbyde de serviceydelser, som MobilePay har og i fremtiden vil få.
+ Endelig bruger vi også informationerne til bogføring, opfyldelse af lovkrav,
+@@ -291,33 +335,39 @@
+ Vi opbevarer informationerne så længe, det er nødvendigt for vores
+ administration, rådgivning, opfyldelse af lovkrav m.v. samt gennemførsel af de
+ serviceydelser, som MobilePay har og i fremtiden vil få.
++
+ Vi bruger din e-mailadresse til at sende betingelserne for MobilePay ved din
+ oprettelse som MobilePay-bruger. Desuden kan vi bruge din e-mailadresse til
+ at sende servicemeddelelser. Du kan også modtage servicemeddelelser via
+ MobilePay-appen.
++
+ Hvis du lader MobilePay Denmark anvende din aktuelle lokation (geografisk
+ placering), vil disse oplysninger blive brugt til at vise dig erhvervsdrivende i
+ nærheden, hvor du kan betale med MobilePay og betalingsterminaler hvor du
+ kan bruge funktionen 'Betal fra låst skærm’. Vi kan desuden bruge oplysningen
+ om din aktuelle lokation til support, tilpasning af vores services eller afklaring af
+ tvivlsspørgsmål vedrørende brug af MobilePay.
++
+ Vi har endvidere løbende brug for en række oplysninger fra dig for at kunne leve
+ op til gældende lovgivning om hvidvask m.v. Dit aftaleforhold til MobilePay
+ Denmark og alle aftaler med os er betinget af, at vi modtager disse
+ oplysninger.
+-A14.2. Videregivelse af kundeoplysninger
++
++A14.3. Videregivelse af kundeoplysninger
+ I visse tilfælde har MobilePay Denmark pligt til at videregive oplysninger til
+ offentlige myndigheder, fx til skattemyndighederne. En sådan videregivelse vil
+ kun finde sted i det omfang, det er lovpligtigt.
+-Videregivelse af dine oplysninger kan også ske til MobilePay-modtagere og ---
++
++Videregivelse af dine oplysninger kan også ske til MobilePay-modtagere og –
+ afsendere og disses banker i det omfang, det er nødvendigt for at du kan
+ sende, modtage eller anmode om penge i MobilePay, herunder oplysninger
+ der identificerer afsender og modtager samt deres tilknyttede kort og konti.
+ Både når du sender eller beder om penge med MobilePay, sender vi en
+-besked om beløb, det navn, du har registreret, mobilnummer og dato for
+-overførslen sammen med din eventuelle besked og billede til modtager. Hvis
+-du betaler til en forretning eller en velgørende organisation, viser vi ikke hele dit
+-mobilnummer.
++besked om beløb, det navn, du har registreret, mobilnummer (også et
++hemmeligt mobilnummer) og dato for overførslen sammen med din eventuelle
++besked og billede til modtager. Hvis du betaler til en forretning eller en
++velgørende organisation, viser vi ikke hele dit mobilnummer.
++
+ Vi kan videregive information om dit CPR-nummer til den bank, hvor du har din
+ registrerede bankkonto (modtagerkonto), så den bank kan kontrollere og
+ informere MobilePay Denmark om, at kontoen tilhører dig. Vi kan videregive
+@@ -325,13 +375,15 @@
+ har udstedt betalingskortet, så den bank kan kontrollere og informere
+ MobilePay Denmark om, at kortet tilhører dig, og at kortet og kontoen tilknyttet
+ kortet kan anvendes til betalinger.
++
+ Videregivelse kan endvidere ske, hvis det er nødvendigt for at kunne
+ understøtte de funktioner, du har tilmeldt dig i MobilePay. Du kan læse mere
+ om videregivelse of de konkrete oplysninger i forbindelse med de funktioner, du
+-bruger, under betingelserne for de relevante funktioner, herunder pkt. D3 om
+-visning af kvitteringer via MobilePay, E1-E2 om MobilePay Bonus, F1 om
+-Medlemskaber, H2 om MobilePay Connect, I2 om Skatteindberetning af
+-donationer med MobilePay og J1 om Abonnementsbetalinger.
++bruger, under betingelserne for de relevante funktioner, herunder pkt. C2.1 om
++funktioner, D2-D3 om visning af kvitteringer via MobilePay, E1-E2 om
++MobilePay Bonus, F1 om Medlemskaber, H2 om MobilePay Connect og I2 om
++Skatteindberetning af donationer med MobilePay.
++
+ Videregivelse til andre formål end beskrevet ovenfor vil altid kun ske i
+ overensstemmelse med gældende lovgivning. Dette vil fx være tilfældet, hvis
+ videregivelse er nødvendig til brug for retssager om krav opstået i forbindelse
+@@ -339,33 +391,43 @@
+ MobilePay Denmark kan derudover videregive oplysninger, hvis du har givet dit
+ samtykke dertil.
+ 
+-A14.3 Dine rettigheder
++A14.4 Dine rettigheder
+ Du kan altid kontakte MobilePay Denmark for at få indsigt i, hvilke oplysninger,
+ vi behandler om dig.
+ Du har endvidere ret til at korrigere oplysninger om dig, som viser sig ikke at
+ være korrekte. MobilePay Denmark vil rette sådanne oplysninger og samtidig
+ underrette andre, der har modtaget de forkerte oplysninger.
+ 
+-A14.4 Klage over MobilePay Denmarks behandling af kundeoplysninger
++A14.5 Klage over MobilePay Denmarks behandling af kundeoplysninger
+ Hvis du vil klage over behandlingen af oplysninger om dig, kan det ske til den
+ klageansvarlige i MobilePay Denmark via klage@mobilepay.dk:
+ 
+ eller til
+-Datatilsynet
+-Borgergade 28,5.
++
++Datatilsynet
++Borgergade 28,5.
+ 1300 København K
+ dt@datatilsynet.dk
+ 
+-A15. Samarbejdspartnere
++A15. Vores underretning om misbrug og sikkerhedstrusler
++Vi vil kontakte dig, hvis vi får mistanke om misbrug af aftalen eller konstaterer et
++faktisk misbrug. Vi vil også kontakte dig, hvis vi bliver opmærksomme på
++eventuelle sikkerhedstrusler. Vi vil kontakte dig på en sikker måde, eksempelvis
++via e-mail eller telefon. Bemærk at vi i disse situationer ikke vil bede dig om at
++oplyse følsomme oplysninger som fx din selvvalgte kode til appen eller en
++aktiveringskode. I visse tilfælde kan vi også udsende information om generelle
++sikkerhedstrusler ad andre kanaler, fx via de sociale medier.
++
++A16. Samarbejdspartnere
+ MobilePay Denmark får i nogle tilfælde provision eller andet vederlag, når vi
+ sælger en samarbejdspartners produkter, eller når vi henviser til en anden
+ virksomhed. Du kan få oplysning om vores samarbejdspartnere ved
+ henvendelse til os eller på vores hjemmeside www.mobilepay.dk.
+ 
+-A16. MobilePay Denmarks erstatningsansvar
++A17. MobilePay Denmarks erstatningsansvar
+ Her kan du læse nærmere om MobilePay Denmarks erstatningsansvar. Du skal
+-være opmærksom på, at under de enkelte afsnit for de forskellige
+-funktioner/services kan der være anført særlige forbehold om MobilePay
++være opmærksom på, at der under de enkelte afsnit for de forskellige
++funktioner/services kan være anført særlige forbehold om MobilePay
+ Denmarks ansvar.
+ 
+ MobilePay Denmark er erstatningsansvarlig, hvis vi på grund af fejl eller
+@@ -373,7 +435,6 @@
+ 
+ Selv på de områder, hvor der gælder et strengere ansvar, er MobilePay
+ Denmark ikke ansvarlig for tab, som skyldes
+-
+ • nedbrud i/manglende adgang til it-systemer eller beskadigelser af data i
+ disse systemer, der kan henføres til nedennævnte begivenheder uanset, om det
+ er MobilePay Denmark selv eller en ekstern leverandør, der står for driften af
+@@ -384,33 +445,33 @@
+ • strejke, lockout, boykot eller blokade, uanset om konflikten er rettet mod eller
+ iværksat af MobilePay Denmark selv eller dens organisation, og uanset
+ konfliktens årsag. Det gælder også, når konflikten kun rammer dele af
+-MobilePay
+-• andre omstændigheder, som er uden for MobilePay Denmarks kontrol.
++MobilePay Denmark
++• andre omstændigheder, som er uden for MobilePay Denmarks kontrol.
+ 
+ MobilePay Denmarks ansvarsfrihed gælder ikke, hvis
+ • MobilePay Denmark burde have forudset det forhold, som er årsag til tabet,
+ da aftalen blev indgået, eller burde have undgået eller overvundet årsagen til
+ tabet
+-• Lovgivningen under alle omstændigheder gør MobilePay Denmark
+-ansvarlig for det forhold, som er årsag til tabet.
++• lovgivningen under alle omstændigheder gør MobilePay Denmark ansvarlig
++for det forhold, som er årsag til tabet.
+ 
+ Vær opmærksom på, at MobilePay Denmark ikke har ansvar for eventuelle fejl
+-og mangler ved de varer eller tjenesteydelser, som de erhvervsdrivende
+-leverer, og MobilePay Denmark påtager sig intet ansvar for de indsamlinger,
+-som du betaler til med MobilePay. Såfremt du har klager vedrørende de
+-leverer varer, tjenesteydelser eller indsamlinger, skal du rette henvendelse til
+-den erhvervsdrivende og/eller indsamleren.
++og mangler ved de varer eller tjenesteydelser, som du betaler med MobilePay,
++og MobilePay Denmark påtager sig intet ansvar for de indsamlinger, som du
++betaler til med MobilePay. Såfremt du har klager vedrørende de leverede
++varer, tjenesteydelser eller indsamlinger, skal du rette henvendelse til sælgeren
++og/eller indsamleren.
+ 
+-MobilePay Denmark påtager sig intet ansvar for erhvervsdrivendes
++MobilePay Denmark påtager sig intet ansvar for sælgeres/indsamleres
+ handlemåde i øvrigt.
+ 
+-A17. Lovvalg og værneting
++A18. Lovvalg og værneting
+ Aftalen og enhver tvist, der udspringer af denne aftale, er underlagt dansk ret
+ og skal behandles ved en dansk domstol. Dette gælder uden hensyntagen til
+ internationale privatretlige regler, der måtte føre til anvendelse af anden ret
+ end dansk ret.
+ 
+-A18. Tilsyn
++A19. Tilsyn
+ MobilePay Denmark har tilladelse fra og er under tilsyn af:
+ 
+ Finanstilsynet
+@@ -422,11 +483,15 @@
+ MobilePay Denmarks tilladelse er registreret i Finanstilsynet under FT-nr.
+ 40505.
+ 
+-MobilePay Denmark er endvidere i henhold til lov om betalingstjenester og
+-elektroniske penge under tilsyn af Forbrugerombudsmanden og Konkurrence-
+-og Forbrugerstyrelsen vedrørende overholdelse af visse lovbestemmelser.
++MobilePay Denmark er endvidere i henhold til lov om betalinger under tilsyn af
++Forbrugerombudsmanden og Konkurrence- og Forbrugerstyrelsen vedrørende
++overholdelse af visse lovbestemmelser.
++A20. Garantiformuen
++Som bruger af MobilePay er du ikke omfattet af Garantiformuen. Din bank vil
++normalt være omfattet af Garantiformuen. Pengeinstitutter med en dansk
++tilladelse til at drive bank er automatisk omfattet af Garantiformuen.
+ 
+-A19 Klager
++A21. Klager
+ Du kan altid kontakte MobilePay Denmark, hvis du er uenig med os. Du er også
+ velkommen til at ringe til (+45) 45 144 447. På den måde sikrer vi, at
+ uenigheden ikke beror på en misforståelse.
+@@ -438,70 +503,85 @@
+ kan du klage til Pengeinstitutankenævnet, Amaliegade 8 B, 2., Postboks 9029,
+ 1022 København K, tlf. nummer 35436333, www.pengeinstitutankenaevnet.dk.
+ 
+-A20. Nyt eksemplar af betingelserne
++A22. Nyt eksemplar af betingelserne
+ Du kan altid finde den seneste version i din app eller på mobilepay.dk.
+-A21. Kontakt
++
++A23. Kontakt
+ Du kan kontakte MobilePay support via (+45) 45 144 447. Du kan se
+ åbningstiderne på mobilepay.dk.
+ Du kan spærre din MobilePay døgnet rundt ved at ringe til os på (+45) 45 144
+ 447 og oplyse dit mobilnummer. Så lukker vi for adgangen og sender dig en e-
+ mail med årsagen, datoen og tidspunktet for spærringen.
+ 
++A24. Optagelse af telefonsamtaler m.v.
++MobilePay Denmark forbeholder sig ret til at optage og/eller registrere
++telefonsamtaler og anden kommunikation. Det sker for at kunne fastslå
++indholdet af samtalen/kommunikationen, herunder til administrativt brug.
++Optagelse/registrering er kun til vores eget brug, herunder evt. retssager,
++jf.også pkt. A14.3.
++
+ B. Når du betaler med MobilePay
+ MobilePay kan bruges til at betale varer/tjenesteydelser hos erhvervsdrivende.
+ MobilePay kan ligeledes bruges til at betale varer/tjenesteydelser via
+-erhvervsdrivendes apps i fysisk handel eller ved fjernsalg --- forudsat at varen
+-skal forbruges udenfor appen. Hvis du køber i webshops, skal du bruge
+-MobilePay til nethandel, se afsnit C. Du kan betale regninger, som du har
+-accepteret at modtage i din MobilePay. Du kan også i visse situationer tilknytte
+-tilbagevendende betalinger (læs mere om funktionen Abonnementsbetalinger
++erhvervsdrivendes apps i fysisk handel eller ved fjernsalg – forudsat at varen
++skal forbruges udenfor appen. Bemærk, at hvis du betaler med dit kort via
++MobilePay, gælder afsnit C. Du kan betale regninger, som du har accepteret at
++modtage i din MobilePay. Du kan også i visse situationer tilknytte
++tilbagevendende betalinger (læs mere om funktionen Abonnementsbetalinger
+ under afsnit J). Du kan overføre penge til offentlige, lovlige og af os godkendte
+ indsamlinger samt private, lovlige indsamlinger eller til en anden person. Du
+ kan også overføre penge til samt bede om penge fra en anden MobilePay-
+ bruger. Du kan også i visse situationer modtage penge fra en erhvervsdrivende.
+-MobilePay kan kun benyttes til overførsler/betalinger i danske kroner. Når du
+-betaler med MobilePay, skal du være opmærksom på følgende:
+ 
+-• det navn, billede og mobilnummer (også hemmeligt nummer), du har
++MobilePay kan kun benyttes til overførsler/betalinger i danske kroner.
++
++Når du betaler med MobilePay, skal du være opmærksom på følgende:
++• Det navn, billede og mobilnummer (også hemmeligt nummer), du har
+ registreret dig med, vises til den MobilePay-bruger, du enten vil sende beløbet
+ til eller modtage beløbet fra.
+-• det navn og billede, du har registreret dig med, og de sidste 4 cifre i dit
++• Det navn og billede, du har registreret dig med, og de sidste 4 cifre i dit
+ mobilnummer vises til den erhvervsdrivende eller velgørende organisation, du
+ betaler eller overfører penge til. Det gælder dog ikke, hvis du benytter
+ funktionen Abonnementsbetalinger.
+ • MobilePay registrerer bl.a. dit og modtagers mobilnummer, kontonumre,
+-beløb samt dato for overførslen --- læs mere under afsnit A14.1
++beløb samt dato for overførslen – læs mere under afsnit A14.1.
+ 
+ B1. Registrering af betalingskortoplysninger mv.
+ B1.1 Kortudsteders autorisation mv.
+ Når der trækkes penge på betalingskortet, søger MobilePay Denmark
+ autorisation hos din kortudsteder, som afgør, om der kan betales fra kortet.
+ Afviser din kortudsteder betalingen, bliver overførslen via MobilePay afvist.
+-Kortudsteder kan opkræve gebyr for brug af kortet.
++Kortudsteder kan opkræve gebyr for brug af kortet. Du kan få oplysninger
++herom hos din kortudsteder.
+ MobilePay Denmark bruger en certificeret Payment Service leverandør til
+ lagring af dine kortoplysninger. Dine data opbevares i overensstemmelse med
+-internationale sikkerhedsstandarder (Payment Card Industry --- Data Security
++internationale sikkerhedsstandarder (Payment Card Industry – Data Security
+ Standard). Dine kortoplysninger bliver ikke gemt på din mobile enhed eller hos
+ MobilePay Denmark.
++
+ Bemærk, at vi kan overføre beløbet direkte fra din konto, hvis du er kunde i en
+ bank, der har indgået en aftale med MobilePay Denmark om at distribuere
+-MobilePay og har tilknyttet et betalingskort udstedt af en bank, der har indgået
++MobilePay og har tilknyttet et betalingskort udstedt af en bank, der har indgået
+ en aftale med MobilePay Denmark om at distribuere MobilePay. Du kan se en
+ liste over banker, der har indgået en aftale med MobilePay Denmark om at
+-distribuere MobilePay, på mobilepay.dk.
++distribuere MobilePay, på mobilepay.dk (liste over Partnerbanker).
++
++B1.2 Gennemførsel af overførsler/betalinger
++Når du betaler med MobilePay, sker der først en elektronisk pengeoverførsel
++fra dit betalingskort til din MobilePay, forudsat din kortudsteder godkender
++betalingsanmodningen – læs mere under B1.1. Derefter videreføres pengene til
++modtagerens MobilePay, hvorfra beløbet overføres til modtagers bankkonto
++(modtagerkonto). Eventuelle gebyrer til fx den erhvervsdrivende eller din
++kortudsteder kan også blive trukket fra dit kort via det tilmeldte mobilnummer.
++
++Den maksimale gennemførselstid for overførsler for betalinger med MobilePay
++er som udgangspunkt én bankdag (dvs. en dag, hvor betalerens og
++betalingsmodtagerens udbyder holder åbent).
++
++Bemærk, at vi kan overføre beløbet direkte fra din konto til din MobilePay, hvis
++du har tilknyttet et betalingskort udstedt af en bank, der har indgået en aftale
++med MobilePay Denmark om at distribuere MobilePay.
+ 
+-B1.2 Gennemførsel af overførsler
+-Når du overfører penge i MobilePay, sker der først en elektronisk
+-pengeoverførsel fra dit betalingskort til din MobilePay, forudsat din
+-kortudsteder godkender betalingsanmodningen --- læs mere under B1.1.
+-Derefter videreføres pengene til modtagerens MobilePay, hvorfra beløbet
+-overføres til modtagers bankkonto. Eventuelle gebyrer bliver også trukket fra dit
+-kort via det tilmeldte mobilnummer. Den maksimale gennemførselstid for
+-overførsler for betalinger med MobilePay er som udgangspunkt én bankdag
+-(dvs. en dag, hvor betalerens og betalingsmodtagerens udbyder holder åbent).
+-Bemærk, at vi kan overføre beløbet direkte fra din konto, hvis du har tilknyttet et
+-betalingskort udstedt af en bank, der har indgået en aftale med MobilePay
+-Denmark om at distribuere MobilePay.
+ B2. Brug af MobilePay mv.
+ B2.1. Maksimalt forbrug
+ Der er en maksimal beløbsgrænse pr. kalenderår for overførsler med
+@@ -509,47 +589,49 @@
+ du automatisk en årlig beløbsgrænse på 80.000 kr. Med NemID med OCES
+ hæves den årlige beløbsgrænse til 150.000 kr. Du kan øge til en årlig
+ beløbsgrænse på 300.000 kr., såfremt du foretager en yderligere legitimering.
+-Se mere herom på mobilepay.dk
++Se mere herom på mobilepay.dk.
++
+ Overførsler omfatter både de beløb, du afsender og modtager. Du kan se dette
+ maksimum og følge det i MobilePay under ‘Beløbsgrænser’. Her kan du også se
+ det fastsatte daglige maksimum for hvor meget, du kan afsende.
++
+ B2.2 Gennemførsel af betalinger med MobilePay
+ B2.2.1. Sådan overfører du penge med MobilePay til en anden MobilePay-
+ bruger
+ Du overfører et beløb til en anden MobilePay-bruger ved at indtaste det
+-ønskede beløb og mobilnummer på modtageren og evt. en besked og et
+-billede. Hvis du har tilknyttet flere betalingskort, kan du nemt vælge et andet
+-kort til betalingen, end det, du har valgt som dit primære kort. Du skal godkende
+-betalingen ved at swipe ‘Send penge’, hvorved betalingsordren anses som
+-modtaget.
++ønskede beløb og mobilnummer på modtageren og evt. en besked om
++betalingen og et billede. Hvis du har tilknyttet flere betalingskort, kan du nemt
++vælge et andet kort til betalingen, end det, du har valgt som dit primære kort.
++Du skal godkende betalingen ved at swipe ‘Send penge’, hvorved
++betalingsordren anses som modtaget.
+ Bagefter får du en bekræftelse på skærmen, som du kan finde igen under
+ ‘Aktiviteter’.
++
+ Modtageren kan med det samme se, at overførslen er registreret i sin
+ MobilePay under ‘Aktiviteter’ og får dermed sikkerhed for, at overførslen er
+-gennemført, og at beløbet vil blive sat ind på modtagerens registrerede
+-bankkonto.
++gennemført, og at beløbet vil blive sat ind på modtagerens registrerede
++modtagerkonto.
+ Hvis modtageren ikke er oprettet som MobilePay-bruger, bliver der oprettet en
+ ventende betalingsordre, der ligger klar i 30 kalenderdage. Du kan selv sende
+-en sms til modtager om den ventende overførsel fra MobilePay. MobilePay
++en sms til modtager om den ventende overførsel fra MobilePay. MobilePay
+ Denmark giver ikke besked. Er du i tvivl om, hvorvidt du har modtaget eller sendt
+ penge, så tjek under ’Aktiviteter’.
+ 
+ B2.2.2. Sådan beder du om en overførsel fra en anden MobilePay-bruger
+ Når du vil bede en MobilePay-bruger om at sende et beløb til dig, skal du
+-indtaste beløb og brugerens navn eller mobilnummer og evt. en besked og et
+-billede. Send anmodningen ved at swipe ‘Anmod om penge’, så får modtager
+-besked og mulighed for at acceptere. Så overføres beløbet til din MobilePay
+-og derfra til din registrerede bankkonto. Du kan se din bekræftelse på
+-anmodningen under ‘Aktiviteter’. På dit kontoudskrift for den konto, der er
+-tilknyttet din MobilePay, kan du også følge dine indbetalinger fra MobilePay.
++indtaste beløb og brugerens navn eller mobilnummer og evt. en besked om
++betalingen og et billede. Send anmodningen ved at swipe ‘Anmod om penge’,
++så får modtager besked og mulighed for at acceptere. Så overføres beløbet til
++din MobilePay og derfra til din registrerede modtagerkonto. Du kan se din
++bekræftelse på anmodningen under ‘Aktiviteter’.
+ 
+-B2.2.3 Sådan betaler du for varer og tjenesteydelser hos erhvervsdrivende,
+-via en erhvervsdrivendes app samt betaler regninger eller overfører penge til
++B2.2.3 Sådan betaler du for varer og tjenesteydelser hos erhvervsdrivende, via
++en erhvervsdrivendes app samt betaler regninger eller overfører penge til
+ offentlige, lovlige og godkendte indsamlinger med MobilePay
+ Vil du betale for en vare eller tjenesteydelse hos en erhvervsdrivende, via en
+-erhvervsdrivendes app (i fysisk salg eller ved fjernsalg), betale en regning eller
+-overføre penge til en offentlig og godkendt indsamling, skal du følge deres
+-fremgangsmåde.
++erhvervsdrivendes app, betale en regning eller overføre penge til en offentlig
++og godkendt indsamling, skal du følge deres fremgangsmåde.
++
+ Når du bekræfter overførslen ved Abonnementsbetalinger, vil betalingen
+ fremadrettet ske automatisk, når du har registreret din aftale i MobilePay. Læs
+ mere under afsnit J. Når du har gennemført overførslen får du en bekræftelse,
+@@ -558,7 +640,7 @@
+ eller ser din aktivitetsliste, vil du kunne se det logo, som den erhvervsdrivende
+ evt. har valgt at tilknytte.
+ 
+-B.2.2.3.1 Betal fra låst skærm
++B2.2.3.1 Betal fra låst skærm
+ Funktionen ‘Betal fra låst skærm’ giver dig mulighed for at betale i butikker, som
+ tilbyder denne mulighed, uden at logge ind i MobilePay. Du finder funktionen
+ under ‘Indstillinger’. Når funktionen er slået til, kan MobilePay lokalisere
+@@ -567,78 +649,104 @@
+ og holde den hen til betalingsterminalen. Du modtager en notifikation på din
+ låseskærm, som du skal trykke på (holde inde) eller ’swipe’ til venstre, og
+ derefter får du mulighed for at godkende (eller afvise) betalingen.
++
+ Grænsen for hvor store beløb, du kan godkende via ‘Betal fra låst skærm’, er p.t.
+-på 250 kr. Selvom beløbet er under den gældende beløbsgrænse, vil du med
++på 250 kr. Selvom beløbet er under den gældende beløbsgrænse, vil du med
+ mellemrum blive bedt om at godkende betalingen ved at åbne din MobilePay
+ og swipe ‘Betal’.
+ Under ‘Indstillinger’ kan du altid slå funktionen ‘Betal fra låst skærm’ til og fra. På
+ mobilepay.dk kan du læse mere om hvilke typer af telefoner, der kan benytte
+ funktionen.
+-B.2.2.4 Sådan modtager du overførsler fra erhvervsdrivende
++
++B2.2.4 Sådan modtager du overførsler fra erhvervsdrivende
+ I visse situationer vil du have mulighed for at modtage beløb fra
+ erhvervsdrivende. Hvis den erhvervsdrivende har en aftale med MobilePay
+ Denmark om at kunne tilbyde dette, kan du modtage beløb ved at oplyse dit
+-mobilnummer. Du kan se pengene med det samme i MobilePay under
+-‘Aktiviteter’, og beløbet vil blive sat ind på din registrerede bankkonto.
++mobilnummer til den erhvervsdrivende. Du kan se pengene med det samme i
++MobilePay under ‘Aktiviteter’, og beløbet vil blive sat ind på din registrerede
++modtagerkonto.
+ 
+ B2.3 Fejl og mangler
+ MobilePay Denmark har intet ansvar for eventuelle fejl og mangler ved de
+-varer eller tjenesteydelser, som de erhvervsdrivende leverer, og MobilePay
++varer eller tjenesteydelser, som du betaler med MobilePay, og MobilePay
+ Denmark påtager sig intet ansvar for de indsamlinger, som du betaler til med
+ MobilePay. Såfremt du har klager vedrørende de leverede varer,
+-tjenesteydelser eller indsamlinger, skal du rette henvendelse til den
+-erhvervsdrivende og/eller indsamleren.
++tjenesteydelser eller indsamlinger, skal du rette henvendelse til sælgeren
++og/eller indsamleren.
+ 
+ B3. Kontrol af posteringer
+ Du har pligt til løbende at kontrollere dine MobilePay-posteringer i appen.
+ Opdager du betalinger
+ • som ikke stemmer overens med dine bekræftelser for de enkelte træk,
+-• som du ikke mener at have foretaget, eller
++• som du ikke mener at have foretaget eller
+ • hvis du oplever, at andre uretmæssigt har sat penge ind på din MobilePay
+-skal du give os besked snarest muligt --- vær dog opmærksom på tidsfristen i
++skal du give os besked snarest muligt – vær dog opmærksom på tidsfristen i
+ punkt B5.
+ 
+-B3.1 Oplysninger om MobilePay transaktioner
++B3.1 Oplysninger om MobilePay-transaktioner
+ Du kan under ’Aktiviteter’ i din MobilePay se oplysninger om dine transaktioner i
+-en periode på mindst op til 13 måneder. Du kan også følge dine MobilePay
+-transaktioner på dit kontoudskrift.
+-
+-B4. Tilbageførsel af betalinger, som du har godkendt (autoriserede
++en periode på mindst 13 måneder. Du kan også følge dine MobilePay-
++transaktioner på dit kontoudskrift – både indgående og udgående
++overførsler/betalinger.
++B4. Tilbageførsel af betalinger som du har godkendt (autoriserede
+ betalinger)
+ B4.1. Tilbagekaldelse
+-Når du har godkendt en betaling, kan du ikke tilbagekalde den.
++Når du har godkendt en betaling, kan du ikke tilbagekalde den. I visse
++situationer har du dog mulighed for at få tilbageført en betaling, jf. nedenfor.
++Læs også pkt. J3, hvis du bruger funktionen ’Abonnementsbetalinger’.
+ 
+-B4.2 Køb af varer eller tjenesteydelser, der sælges ved fjernsalg, og hvor det
+-er tilladt at betale med MobilePay
++B4.2 Køb af varer eller tjenesteydelser der sælges ved fjernsalg og hvor det er
++tilladt at betale med MobilePay
+ Hvis du har betalt en vare eller tjenesteydelse ved fjernsalg, hvor det er tilladt at
+-betale med MobilePay (se mere herom under afsnit B), kan du i visse
+-situationer have ret til at få en betaling tilbageført, hvis købet er sket ved
+-fjernsalg, og forretningen (den erhvervsdrivende) har trukket et højere beløb
++betale med MobilePay, kan du i visse situationer have ret til at få en betaling
++tilbageført, hvis forretningen (den erhvervsdrivende) har trukket et højere beløb
+ end aftalt, eller den bestilte vare/tjenesteydelse ikke er leveret, eller du har
+ udnyttet en aftalt eller lovbestemt fortrydelsesret, førend der er foretaget
+ levering af varen eller tjenesteydelsen.
+ Du skal først søge at løse problemet med den erhvervsdrivende, inden du
+-kontakter MobilePay Denmark. Du skal kunne dokumentere, at du har
++kontakter MobilePay Denmark. Du skal kunne dokumentere, at du har
+ kontaktet eller forsøgt at kontakte den erhvervsdrivende.
++
+ Det er en betingelse, at du kontakter os snarest muligt, efter du er blevet
+ opmærksom på, at du kan have krav på tilbageførsel af en betaling. Du skal så
+ vidt muligt kontakte os med din indsigelse senest 14 dage efter, du er blevet
+ opmærksom på dit mulige krav. Når vi vurderer, om du har kontaktet os i rette
+-tid, vil vi lægge vægt på din pligt til løbende at gennemgå og kontrollere
+-posteringerne på din MobilePay. Vi vil herefter hurtigst muligt undersøge din
+-indsigelse.
++tid, vil vi lægge vægt på din pligt til løbende at gennemgå og kontrollere dine
++MobilePay-posteringeri. Vi vil herefter hurtigst muligt undersøge din indsigelse.
++Når vi har modtaget din indsigelse, undersøger vi den. Mens det sker, sætter vi
++normalt beløbet ind på din modtagerkonto. Hvis indsigelsen efterfølgende viser
++sig at være uberettiget, har vi ret til at få beløbet refunderet.
++
++B4.3 Hvis du ikke kendte det endelige beløb ved godkendelsen af betalingen
++Hvis du ikke kendte det endelige beløb, da du godkendte betalingen, og det
++beløb, der efterfølgende bliver trukket på din konto, oversteg hvad du med
++rimelighed bl.a. under hensyn til dit tidligere udgiftsmønster og disse
++betingelser kunne forvente, kan du have krav på at få tilbageført betalingen.
++
++Du skal kontakte os senest otte uger, efter beløbet er trukket på din konto, hvis
++du mener, at du har krav på at få tilbageført en betaling, hvor du ikke har
++godkendt det endelige beløb.
++
++Når vi har modtaget din indsigelse, undersøger vi den. Du vil høre fra os seneste
++10 arbejdsdage efter modtagelse af din anmodning.
++Læs også pkt. J3 under ’Abonnementsbetalinger’, da der gælder særlige regler
++for den funktion. Vær også opmærksom på pkt. B6.
+ 
+-B5. Tilbageførsel af betalinger, som du ikke har godkendt (uautoriserede
++B5. Tilbageførsel af betalinger som du ikke har godkendt (uautoriserede
+ betalinger)
+ Hvis du mener, der er gennemført betalinger med MobilePay, som du ikke har
+ godkendt, medvirket til eller foretaget, skal du kontakte MobilePay Denmark
+ snarest muligt, efter du har opdaget det og lave en indsigelse. Når vi vurderer
+ din indsigelse, og om du har kontaktet os i rette tid, vil vi lægge vægt på din pligt
+-til løbende at gennemgå og kontrollere posteringerne på din MobilePay. Under
+-alle omstændigheder skal du henvende dig til os senest 13 måneder efter, at
++til løbende at gennemgå og kontrollere dine MobilePay-posteringer. Under alle
++omstændigheder skal du henvende dig til os senest 13 måneder efter, at
+ beløbet er trukket med MobilePay.
+-Viser undersøgelsen, at andre uberettiget har brugt din MobilePay, refunderer
+-vi beløbet med det samme.
++
++Når vi har modtaget din indsigelse, undersøger vi den. Mens det sker sætter vi
++normalt beløbet ind på din modtagerkonto. Hvis indsigelsen viser sig at være
++uberettiget, har vi ret til at få beløbet refunderet. Vær også opmærksom på pkt.
++B6.
++
+ B6. Dit ansvar
+ Hvis MobilePay har været misbrugt af en anden person, vil vi dække tabet,
+ medmindre du har handlet svigagtigt eller undladt at opfylde dine forpligtelser
+@@ -650,38 +758,39 @@
+ 
+ 
+ C. MobilePay til brug ved nethandel (betaling med kort via MobilePay)
+-Du kan bruge MobilePay ved nethandel, hvis du har aktiveret funktionen under
+-‘Indstillinger’ i appen (her kan du også deaktivere funktionen), og såfremt den
+-pågældende hjemmeside muliggør dette. Når du gør det, fungerer MobilePay
+-som en service, der omsætter dit tilmeldte mobilnummer til de kortnumre, du
+-har registreret i din MobilePay.
++Du kan betale med dit kort via MobilePay ved nethandel, hvis du har aktiveret
++funktionen under ‘Indstillinger’ i appen (her kan du også deaktivere funktionen),
++og såfremt den pågældende hjemmeside muliggør dette. Når du gør det,
++fungerer MobilePay som en service, der omsætter dit tilmeldte mobilnummer til
++de kortnumre, du har registreret i din MobilePay.
+ Bemærk, at selve betalingen sker som ved et almindeligt kortkøb, hvor du selv
+ har indtastet kortnummeret. Der flyttes dermed ikke penge fra dit tilknyttede
+ betalingskort over på MobilePay, og MobilePay Denmark står derfor ikke for
+ betalingsoverførslen.
+ Hvis du ønsker at tilmelde dit Dankort til denne løsning, skal du bruge dit NemID.
++
+ Når du bruger dit kort til betaling på nettet via MobilePay, skal du derudover
+ være opmærksom på, at MobilePay Denmark
+-• bruger dit tilmeldte mobiltelefonnummer til at omsætte til de
+-kortoplysninger, du har registreret i din MobilePay
++• bruger dit tilmeldte mobiltelefonnummer til at omsætte til de
++kortoplysninger, du har registreret i din MobilePay
+ • registrerer det beløb og den dato for godkendelse af dit kortkøb, du får vist
+-og godkender i din MobilePay-app --- se mere under punkt C8.
++og godkender i din MobilePay-app – se mere under punkt C8.
+ Vi sender ikke dit mobilnummer til den erhvervsdrivende, hvor du handler med
+ dit kort via MobilePay.
+ 
+ C1. Registrering og brug af betalingskortoplysninger mv.
+ C1.1 Betalingskortoplysninger
+ Når du vælger at betale med dit kort på nettet via MobilePay, omsættes dit
+-tilmeldte mobiltelefonnummer til de kortoplysninger, du har registreret i din
++tilmeldte mobilnummer til de kortoplysninger, du har registreret i din
+ MobilePay. Så kan internetforretningens betalingsudbyder gennemføre
+ kortbetalingen. Når der trækkes penge på betalingskortet, søger
+-betalingsudbyderen autorisation hos din kortudsteder (fx din bank). Det er
++betalingsudbyderen autorisation hos din kortudsteder (fx din bank). Det er din
+ kortudsteder, der afgør, om der kan betales fra kortet. Afviser din kortudsteder
+ betalingen, får du besked med det samme. Bemærk, at både kortudsteder og
+ den erhvervsdrivende eventuelt opkræver gebyr for brug af kortet.
+ MobilePay Denmark bruger en certificeret Payment Service leverandør til
+ lagring af dine kortoplysninger, og dine data opbevares i overensstemmelse
+-med internationale sikkerhedsstandarder (Payment Card Industry --- Data
++med internationale sikkerhedsstandarder (Payment Card Industry – Data
+ Security Standard). Dine kortoplysninger bliver ikke gemt på din mobile enhed
+ eller hos MobilePay Denmark.
+ 
+@@ -689,34 +798,36 @@
+ Når du knytter dit Dankort til betaling på nettet via MobilePay, skal du bekræfte
+ det med dit NemID med OCES certifikat ved at følge anvisningerne.
+ 
+-C2. Funktioner, brug af MobilePay til betaling på nettet mv.
++C2. Funktioner, brug af MobilePay til betaling med kort på nettet mv.
+ C2.1 Funktioner
+-Hvis du har aktiveret MobilePay til betaling på nettet, kan du handle med dine
+-kort i de internetforretninger, der skilter med MobilePay, og som modtager den
+-korttype, du har tilknyttet din MobilePay.
+-
+-Hvis internetforretningen tilbyder muligheden, kan du også overføre dit navn,
+-din hjemme- og evt. en leveringsadresse, hvis din hjemmeadresse ikke er
+-leveringsadresse. Desuden kan du, hvis internetforretningen tilbyder
+-muligheden, overføre din e-mail adresse og dit mobilnummer fra MobilePay til
+-internetforretningen til brug for gennemførelse af det konkrete køb.
++Hvis du har aktiveret MobilePay til betaling med kort på nettet, kan du handle
++med dine kort i de internetforretninger, der skilter med MobilePay, og som
++modtager den korttype, du har tilknyttet din MobilePay.
++
++Hvis internetforretningen tilbyder muligheden, kan du til brug for det konkrete
++køb overføre visse informationer fra din MobilePay til internetforretningen.
++Oplysninger, du kan vælge at overføre, er dit navn, din hjemme- og evt. en
++leveringsadresse, hvis din hjemmeadresse ikke er leveringsadresse, din e-
++mailadresse og dit mobilnummer.
+ 
+ C2.2 Dine kortholderregler
+ Når du handler via MobilePay på nettet, er det dine kortregler, der gælder.
+-Reglerne for MobilePay skal du naturligvis også overholde.
++Reglerne for MobilePay skal du naturligvis også overholde.
+ 
+ C2.3 Maksimalt forbrug
+ MobilePay Denmark fastsætter ingen maksimal grænse for dine køb, når du
+-betaler på nettet med kort via MobilePay. Du skal være opmærksom på, at din
++betaler på nettet med kort via MobilePay. Du skal være opmærksom på, at din
+ kortudsteder eller den erhvervsdrivende kan have fastsat en beløbsgrænse.
+ 
+ C2.4 Gennemførelse af betalinger med dit kort på nettet via MobilePay
+ Du vælger selv aktivt på den erhvervsdrivendes hjemmeside, at du vil betale
+ med dit betalingskort via MobilePay.
++
+ Kvitteringen for selve købet modtager du fra den erhvervsdrivende. Du kan se
+ oplysninger om dine godkendelser af kortkøb via MobilePay under ‘Aktiviteter’ i
+ mindst 13 måneder. Du vil også kunne se din kortbetaling på nettet via
+ MobilePay på dit korts kontoudtog.
++
+ Både når du er på godkendelsesbilledet, ser din bekræftelse eller ser din
+ aktivitetsliste, vil du kunne se det logo, som den erhvervsdrivende benytter.
+ 
+@@ -729,62 +840,64 @@
+ C3. Kontrol af godkendelser af kortbetalinger via MobilePay
+ Du har pligt til løbende at kontrollere godkendelser af betalinger med kort på
+ nettet via MobilePay i appen. Opdager du godkendelser, som du ikke mener at
+-have foretaget, skal du give os besked snarest muligt.
++have foretaget, skal du give os besked snarest muligt – læs også pkt. C5.
++
+ C4. Tilbagekaldelse af godkendelser
+ Du kan ikke tilbagekalde en godkendelse, du har foretaget via MobilePay.
+ 
+ C5. Indsigelser mv.
+-Ved nethandel bruges MobilePay kun til at omsætte dit mobilnummer til dine
+-kortoplysninger, så det er dine kortholderregler, der gælder for dit kortkøb. Det
+-vil bl.a. sige, at du skal kontakte din kortudsteder (typisk din bank) om
+-indsigelser om brug af dit kort.
+-Hvis du mener, at misbruget vedrører brug af kortet til køb på nettet via
+-MobilePay, skal du kontakte MobilePay Denmark.
+-
+-C6. Dit ansvar
++Ved betaling med dit kort via MobilePay bruges MobilePay kun til at omsætte
++dit mobilnummer til dine kortoplysninger, så det er dine kortholderregler, der
++gælder for dit kortkøb. Det vil bl.a. sige, at du skal kontakte din kortudsteder
++(typisk din bank) om indsigelser om brug af dit kort.
++C6. Dit ansvar
+ Det er dit ansvar at bruge det tilknyttede kort i overensstemmelse med din
+ kortudsteders regler og samtidig overholde betingelserne for MobilePay.
+ 
+ C7. MobilePay Denmarks ansvar
+-I forhold til din brug af funktionen MobilePay til betaling på nettet har
+-MobilePay Denmark ansvaret for, at det telefonnummer, du indtaster,
+-omsættes til det kortnummer, du har indtastet til brug for MobilePay til betaling
+-på nettet.
+-D. Visning af kvitteringer via MobilePay
++I forhold til din brug af funktionen betaling med kort via MobilePay på nettet har
++MobilePay Denmark ansvaret for, at det mobilnummer, du indtaster, omsættes
++til det kortnummer, du har indtastet til brug for MobilePay til betaling på nettet.
++
++D. Visning af kvitteringer via MobilePay
+ MobilePay Denmark har en aftale med Storebox A/S, som giver dig mulighed
+-for i MobilePay at få vist de kvitteringer, du har adgang til hos Storebox --- se
++for i MobilePay at få vist de kvitteringer, du har adgang til hos Storebox – se
+ mere på www.storebox.com.
+ Hvis du ønsker at få vist disse kvitteringer i MobilePay, skal du både have en
+ aftale med Storebox om deres elektroniske kvitteringsløsning og aktivere
+ muligheden for visning af kvitteringerne via MobilePay. Du kan oprette en profil
+ hos Storebox via MobilePay.
+ Vær opmærksom på, at dine MobilePay-bekræftelser (for dine overførsler i
+-MobilePay) kan ses under Aktiviteter i MobilePay --- de må ikke forveksles med
++MobilePay) kan ses under Aktiviteter i MobilePay – de må ikke forveksles med
+ ’Kvitteringer’.
+ 
+ D1. ’Kvitteringer’- aktivering mv.
+ Du skal selv aktivere funktionen ’Kvitteringer’. Det kræver, at du har en aftale
+-med Storebox om deres elektroniske kvitteringsløsning --- se mere under punkt
+-D.2. Når du tilmelder dig ’Kvitteringer’ i MobilePay, skal du også være
++med Storebox om deres elektroniske kvitteringsløsning – se mere under punkt
++D2. Når du tilmelder dig ’Kvitteringer’ i MobilePay, skal du også være
+ opmærksom på, at vi via vores certificerede Payment Service leverandør vil
+ overføre dine krypterede betalingskortoplysninger til Storebox. Det gør vi, så vi
+ kan forbinde din profil i Storebox med din MobilePay.
+ MobilePay Denmark bruger en certificeret Payment Service leverandør til at
+ lagre dine kortoplysninger, og dine data opbevares i overensstemmelse med
+-internationale sikkerhedsstandarder (Payment Card Industry --- Data Security
++internationale sikkerhedsstandarder (Payment Card Industry – Data Security
+ Standard).
+ Dine kortoplysninger bliver ikke gemt på din mobile enhed eller hos MobilePay
+ Denmark.
+ 
+-D2. Storebox’elektroniske kvitteringsløsning - tilmelding mv.
++D2. Storebox’ elektroniske kvitteringsløsning - tilmelding mv.
+ Du kan kun aktivere ’Kvitteringer’ i MobilePay, hvis du har en aftale med
+ Storebox om adgang til elektronisk kvitteringsløsning hos Storebox. Hvis du
+-tilmelder dig Storebox’ elektroniske kvitteringsløsning via MobilePay, vil
+-MobilePay Denmark sende dit navn, din mail-adresse og dit telefonnummer til
+-Storebox. Det gør vi, så Storebox kan oprette din Storebox-profil. Hvis du
+-allerede er tilmeldt Storebox` elektroniske kvitteringsløsning, kan du også få
+-mulighed for at tilmelde dig yderligere kvitteringsløsningsfunktioner hos
++tilmelder dig Storebox’ elektroniske kvitteringsløsning via MobilePay, giver du
++samtykke til, at MobilePay Denmark sender dit navn, din e-mailadresse og dit
++telefonnummer til Storebox. Det gør vi, så Storebox kan oprette din Storebox-
++profil. Du giver også samtykke til, at vi overfører dine krypterede
++betalingskortoplysninger til Storebox. Det gør vi, så vi kan forbinde din profil i
++Storebox med din MobilePay.
++Hvis du allerede er tilmeldt Storebox` elektroniske kvitteringsløsning, kan du
++også få mulighed for at tilmelde dig yderligere kvitteringsløsningsfunktioner hos
+ Storebox via MobilePay.
++
+ Den aftale, du allerede har eller indgår med Storebox, er udelukkende en aftale
+ mellem dig og Storebox. MobilePay Denmark er ikke part i aftalen og er ikke
+ ansvarlig for Storebox` elektroniske kvitteringsløsning. Det samme gælder for
+@@ -793,7 +906,7 @@
+ Har du spørgsmål til din aftale med Storebox, skal du kontakte Storebox.
+ 
+ D3. Adgang til data
+-MobilePay Denmark har ikke adgang til dine data og gemmer ikke dine
++MobilePay Denmark har ikke adgang til dine data og gemmer ikke dine
+ kvitteringer. Vi viser kun dine kvitteringer, så længe du har funktionen åbnet og
+ kun for dig. Når du lukker for funktionen, er der ikke længere adgang til
+ kvitteringerne i MobilePay.
+@@ -818,16 +931,15 @@
+ D6. Dit ansvar
+ Det er dit ansvar at sikre, at du overholder Storebox’ betingelser for brug af
+ elektroniske kvitteringer og betingelserne for MobilePay.
+-
+-D7. MobilePay Denmarks ansvar
++D7. MobilePay Denmarks ansvar
+ MobilePay Denmark har ikke ansvar for Storebox’ elektroniske
+ kvitteringsfunktion eller handlinger i øvrigt, ligesom vi ikke har ansvaret for
+ aftalen mellem dig og Storebox.
+ 
+ E. MobilePay Bonus
+ MobilePay Bonus er en funktion i MobilePay, der giver dig mulighed for at
+-optjene bonus hos erhvervsdrivende, hvor du betaler varer/services med
+-MobilePay.
++optjene bonus hos erhvervsdrivende, hvor du betaler varer/tjenesteydelser
++med MobilePay.
+ Du kan bruge den optjente bonus hos den erhvervsdrivende, hvor du har
+ optjent bonussen.
+ MobilePay Denmark stiller funktionen til rådighed for dig, men det er den
+@@ -836,21 +948,21 @@
+ Du tilmelder dig via menupunktet ’Bonus’ i MobilePay.
+ 
+ E1. Tilmelding og registrering
+-Når du er registeret MobilePay-bruger med dit CPR-nummer eller NemID, kan
++Når du er registeret MobilePay-bruger med dit CPR-nummer eller NemID, kan
+ du tilmelde dig via menupunktet ’Bonus’ i din MobilePay-app ved at følge
+ anvisningerne.
+ Hvis du er under 18 år, skal du have dine forældres accept, før du tilmelder dig.
+ Funktionen er personlig, og hvis den misbruges, har vi ret til at spærre din
+ MobilePay-aftale.
+ 
+-E2. Hvilke informationer registreres, og hvad bruger vi dem til.
+-Når du tilmelder dig MobilePay Bonus, vil dine oplysninger blive anvendt på
+-følgende måde:
+-• når du betaler hos en erhvervsdrivende, der tilbyder bonus, må vi anvende
++E2. Hvilke informationer registreres, og hvad bruger vi dem til
++Når du tilmelder dig MobilePay Bonus, giver du samtykke til, at dine
++oplysninger bliver anvendt på følgende måde:
++• Når du betaler hos en erhvervsdrivende, der tilbyder bonus, må vi anvende
+ information om dit købsbeløb til at beregne din bonus. Den erhvervsdrivende
+ får ikke adgang til dine betalingsinformationer eller andre af dine personlige
+ informationer i MobilePay.
+-• vi registrerer din bonus, så du kan anvende den til fremtidige betalinger med
++• Vi registrerer din bonus, så du kan anvende den til fremtidige betalinger med
+ MobilePay hos den erhvervsdrivende, hvor du har optjent bonussen.
+ 
+ E3. Optjening af bonus
+@@ -858,12 +970,11 @@
+ erhvervsdrivende. Du kan optjene bonus for alle de køb, du foretager med
+ MobilePay hos den tilmeldte erhvervsdrivende. Den bonus, som du optjener
+ ved det enkelte køb, vil blive rundet af til nærmeste hele øre.
+-
+-Der er ikke nogen øvre grænse for, hvor meget bonus du kan optjene --- dette
++Der er ikke nogen øvre grænse for, hvor meget bonus du kan optjene – dette
+ afhænger af størrelsen af den bonus, som den erhvervsdrivende giver. Du kan
+ altid se, hvor meget bonus du vil opspare på den enkelte betaling, inden du
+ godkender betalingen. Desuden kan du se, hvor meget bonus du har optjent
+-hos hver erhvervsdrivende, og hvor stor en bonusprocent, den erhvervsdrivende
++hos hver erhvervsdrivende, og hvor stor en bonusprocent den erhvervsdrivende
+ tilbyder under menupunktet ’Bonus’ i MobilePay.
+ 
+ Vær opmærksom på, at anvendt bonus indgår i beregningen af din daglige
+@@ -878,7 +989,8 @@
+ E5. Brug af bonus
+ Den bonus, du har optjent, kan du bruge ved køb af varer/tjenesteydelser hos
+ den erhvervsdrivende, hvor du har optjent bonussen.
+-Du bruger bonussen ved at trykke ’Brug bonus’, når du betaler hos den
++
++Du bruger bonussen ved at trykke ’Brug bonus’, når du betaler hos den
+ erhvervsdrivende, hvor du har bonus til gode.
+ 
+ Hvis du betaler en vare eller tjenesteydelse med din optjente bonus, optjener
+@@ -899,7 +1011,7 @@
+ Så vil du kunne benytte de optjente bonuspoint i 6 måneder efter den
+ erhvervsdrivende melder sig fra. Der kan ikke optjenes ny bonus i den periode
+ • den tilmeldte erhvervsdrivende lukker eller lignende
+-• den tilmeldte erhvervsdrivendes aftale om brug af MobilePay med
++• den tilmeldte erhvervsdrivendes aftale om brug af MobilePay med
+ MobilePay Denmark opsiges eller ophører
+ • du framelder MobilePay Bonus eller ophører med at være MobilePay-
+ bruger.
+@@ -917,10 +1029,10 @@
+ har optjent hos en tilmeldt erhvervsdrivende. Vi tildeler dig ikke bonus og har
+ ikke ansvaret for, at du modtager din bonus. Det er den enkelte tilmeldte
+ erhvervsdrivende, der tildeler dig bonus og har ansvaret herfor, herunder også
+-for, at du kan benytte den tildelte bonus.
++for at du kan benytte den tildelte bonus.
+ 
+ F. Medlemskaber
+-Medlemskaber er en funktion i MobilePay, der giver dig mulighed for at
++Medlemskaber er en funktion i MobilePay, der giver dig mulighed for at
+ registrere dine medlemsnumre hos erhvervsdrivende, hvor du har et
+ medlemskab. På denne måde slipper du for diverse kort i din pung.
+ MobilePay Denmark stiller registreringsfunktionen til rådighed for dig, men
+@@ -934,18 +1046,19 @@
+ Funktionen er personlig, og hvis den misbruges, forbeholder vi os ret til at
+ spærre din MobilePay-aftale.
+ 
+-F1. Hvilke informationer registreres, og hvad bruger vi dem til.
+-Når du tilmelder dit medlemsnummer, vil vi i forbindelse med en betaling til en
+-erhvervsdrivende, hvor du har indtastet dit medlemsnummer, videresende dit
+-medlemsnummer til den erhvervsdrivende, så den erhvervsdrivende kan
+-anvende dit medlemsnummer på samme måde, som hvis du havde fortalt det
+-til den erhvervsdrivende eller vist et medlemskort. Den erhvervsdrivende får ikke
++F1. Hvilke informationer registreres, og hvad bruger vi dem til
++Når du tilmelder dit medlemsnummer, giver du samtykke til, at vi i forbindelse
++med en betaling til en erhvervsdrivende, hvor du har indtastet dit
++medlemsnummer, videresender dit medlemsnummer til den
++erhvervsdrivende, så den erhvervsdrivende kan anvende dit
++medlemsnummer på samme måde, som hvis du havde fortalt det til den
++erhvervsdrivende eller vist et medlemskort. Den erhvervsdrivende får ikke
+ adgang til dine betalingsinformationer eller andre af dine personlige
+ informationer i MobilePay.
+ MobilePay Denmark anvender ikke dit medlemsnummer til andre formål end til
+-at administrere registrerings funktionen for dine medlemskaber.
++at administrere registrerings-funktionen for dine medlemskaber.
+ 
+-F2 Medlemskabet hos den tilmeldte erhvervsdrivende
++F2. Medlemskabet hos den tilmeldte erhvervsdrivende
+ Medlemskabet med den enkelte erhvervsdrivende skal du selv aftale direkte
+ med den erhvervsdrivende, ligesom det er den erhvervsdrivendes betingelser
+ for medlemskabet, der gælder. Det betyder bl.a., at det er den enkelte
+@@ -957,116 +1070,110 @@
+ medlemskab og kan ikke drages til ansvar for forhold vedrørende
+ medlemskabet.
+ 
+-F3 Til- og framelding
++F3. Til- og framelding
+ I MobilePay kan du til enhver tid tilmelde eller fjerne dit medlemsnummer hos
+ en erhvervsdrivende. Det gør du via menupunktet ’Kort’ i din MobilePay-app.
+ Såfremt dit medlemskab ophører, uanset af hvilken årsag, vil din registrering i
+ MobilePay af medlemsnummeret ikke blive fjernet automatisk.
+ 
+ G. Modtag og betal regninger med MobilePay
+-MobilePay Denmark giver dig mulighed for at modtage og få vist regninger i
++MobilePay Denmark giver dig mulighed for at modtage og få vist regninger i
+ MobilePay. Du vælger, om du vil betale dem med MobilePay, eller om du vil
+ betale på anden vis. Du kan bruge denne service, hvis den erhvervsdrivende,
+ der sender dig regninger, har en aftale med MobilePay Denmark om at kunne
+ tilbyde denne mulighed.
+ Funktionen kræver, at du laver en aftale med den erhvervsdrivende om at
+ modtage din regning i MobilePay og har oplyst dit mobilnummer til din kreditor.
++Hvis virksomheden tilbyder det, kan du også benytte funktionen ved aktivt at
++klikke på en ’MobilePay-betalingsknap’ hos den erhvervsdrivende, fx i en e-mail
++eller i et selvbetjeningsunivers.
+ 
+ G1. Funktionen ’Modtag og betal regninger’
+ Det eneste, du skal gøre for at kunne bruge funktionen, er at indgå aftale med
+-den erhvervsdrivende og bede pågældende sende regningen til din
+-MobilePay. Desuden skal du oplyse dit mobilnummer, så den erhvervsdrivende
+-kan sende regningen til din MobilePay.
+-Første gang du modtager regninger fra den erhvervsdrivende i din MobilePay,
+-modtager du desuden en anmodning om enten at acceptere modtagelse af
+-regninger fra den erhvervsdrivende eller blokere regninger fra den
+-erhvervsdrivende. Når du først har accepteret at modtage regninger fra den
+-erhvervsdrivende, vil du ikke modtage denne anmodning igen.
+-Såfremt du ikke besvarer anmodningen, vil den automatisk bortfalde, og du
+-modtager således ikke regningen. Normalt vil anmodningen være tilgængelig
+-mellem 1 og 5 dage, beroende på regningens forfaldsdato. Du skal bede den
+-erhvervsdrivende sende regningen til dig igen, hvis du ønsker at acceptere
+-fremtidig modtagelse af regninger i din MobilePay.
+-Hvis du accepterer modtagelse af regninger fra den erhvervsdrivende, vil du
+-fremadrettet kunne modtage regninger fra den erhvervsdrivende. Du kan altid
+-kontakte MobilePay Denmark, hvis du ønsker at blokere for, at den
+-erhvervsdrivende fremadrettet kan sende regninger til din MobilePay.
+-Hvis du blokerer den erhvervsdrivende, vil du ikke kunne modtage regninger fra
+-den erhvervsdrivende. Du kan altid kontakte MobilePay Denmark, hvis du
+-ønsker at acceptere, at den erhvervsdrivende kan sende regninger til din
+-MobilePay.
++den erhvervsdrivende og bede pågældende sende regningen til din MobilePay
++eller benytte funktionen ved aktivt at klikke på ’MobilePay-betalingsknappen’ i
++den erhvervsdrivendes betalingsflow.
++
+ Når du modtager regningen, og hvis du vælger at betale regningen med
+ MobilePay, skal du følge de retningslinjer, der er angivet i B2.2.3. Vær
+ opmærksom på, at dine MobilePay-bekræftelser (for dine overførsler med
+-MobilePay) kan ses under Aktiviteter i MobilePay --- de må ikke forveksles med
++MobilePay) kan ses under ’Aktiviteter’ i MobilePay – de må ikke forveksles med
+ regninger.
++
+ Når du ønsker at se dine regninger i MobilePay, skal du klikke på linket på den
+ tilhørende kvittering for betalingen i MobilePay. Du kan se regninger fra køb,
+ hvor du har valgt at modtage regningen i MobilePay.
+-Hvis du har aktiveret modtagelse af notifikationer, får du en notifikation om, at
+-du har fået en anmodning om at acceptere modtagelse af regninger, hvis du
++
++Hvis du har aktiveret modtagelse af notifikationer, kan du få en notifikation om,
++at du har fået en anmodning om at acceptere modtagelse af regninger, hvis du
+ ikke tidligere har modtaget regninger fra den erhvervsdrivende. Du modtager
+ ligeledes en notifikation om, at du har fået en regning. Desuden vil du modtage
+ en SMS i forbindelse med en regnings forfaldsdato. Så har du altid mulighed
+ for at holde styr på, om regningen er betalt.
+-G2. Framelding til ’Modtag og betal regninger’
++
++G2. Framelding til ’Modtag og betal regninger’
+ Ønsker du ikke længere at kunne modtage anmodninger om accept af
+ modtagelse af regninger eller regninger til betaling i MobilePay, skal du
+-afmelde dig under menupunktet Indstillinger i MobilePay. Hvis du har frameldt
++afmelde dig under menupunktet ’Indstillinger’ i MobilePay. Hvis du har frameldt
+ dig løsningen, vil du ikke kunne modtage flere anmodninger, førend du
+-tilmelder dig igen under Indstillinger. Hvis du ønsker at tilmelde dig ’Modtag og
+-betal Regning’ igen, skal du tilmelde dig på ny under Indstillinger.
++tilmelder dig igen under ’Indstillinger’. Hvis du ønsker at tilmelde dig ’Modtag og
++betal Regning’ igen, skal du tilmelde dig på ny under ’Indstillinger’.
+ 
+ G3. Betaling af regninger
+ Du betaler en regning i MobilePay-appen ved at godkende anmodningen fra
+ den erhvervsdrivende under ‘Venter’ i aktivitetslisten og i øvrigt i henhold til
+ betingelser under punkt B. MobilePay Denmark foretager ikke betalingen, men
+ giver dig mulighed for selv at betale med MobilePay.
++Du kan også vælge, at regningen skal betales på en bestemt dato til og med
++regningens endelige forfaldsdag. Så vil betalingen blive gennemført på den
++valgte dato, forudsat at transaktionen kan gennemføres – se mere herom
++under pkt. B1.1
+ 
+ G4. Dit ansvar
+ ’Modtag og betal regninger’ i MobilePay er et personligt produkt og må kun
+ benyttes af dig. Hvis regningen er fejlbehæftet eller ikke svarer til det aftalte,
+ skal du selv rette henvendelse til den erhvervsdrivende. Det er dit ansvar at
+ sikre, at du overholder betingelserne for MobilePay.
+-
+-G5. MobilePay Denmarks ansvar
++G5. MobilePay Denmarks ansvar
+ MobilePay Denmark er ikke part i aftalen mellem dig og den erhvervsdrivende
+ om fremsendelse af regningen til betaling i MobilePay og har derfor ikke noget
+ ansvar for regningen eller dens indhold, herunder om regningen er
+ fejlbehæftet.
+ 
+ G6. Opbevaring af regninger
+-MobilePay Denmark opbevarer dine betalte regninger i mindst 13 mdr. Hvis du
+-har behov for at opbevare dem i længere tid, anbefaler vi dig at printe dem.
+-Hvis en regning ikke betales med MobilePay, vil den fremstå som ubetalt i
+-MobilePay. Ubetalte regningerne vil være tilgængelige frem til forfaldsdato
+-plus 30 dage. Såfremt din aftale om MobilePay ophører, uanset af hvilken
+-årsag, vil du ikke længere have adgang til din regninger.
++MobilePay Denmark gør dine betalte regninger tilgængelige i din MobilePay i
++mindst 13 måneder. Hvis du har behov for at opbevare dem i længere tid,
++anbefaler vi dig at printe dem. Hvis en regning ikke betales med MobilePay, vil
++den fremstå som ubetalt i MobilePay. Ubetalte regningerne vil være
++tilgængelige frem til forfaldsdato plus 30 dage. Såfremt din aftale om
++MobilePay ophører, uanset af hvilken årsag, vil du ikke længere have adgang til
++din regninger.
+ 
+ H. MobilePay Connect
+ MobilePay Connect er en funktion, der gør det muligt for dig at dele visse af de
+-informationer, du har registreret i MobilePay, med den erhvervsdrivende, der
++informationer, du har registreret i MobilePay, med erhvervsdrivende, der
+ benytter funktionen MobilePay Connect. Du bliver i forbindelse med en deling
+ altid præsenteret for de oplysninger, som du har mulighed for at dele, og du
+-vælger selv, hvilke der skal deles.
++vælger selv, hvilke der skal deles og dermed sendes videre.
++
+ Med funktionen er der forskellige muligheder for at dele informationer:
+-• Du kan fra MobilePay dele informationer til en erhvervsdrivendes app eller
+-website
++• Du kan fra MobilePay dele informationer til en erhvervsdrivendes app eller
++website.
+ • Du kan fra en erhvervsdrivendes app eller website tilgå MobilePay og vælge
+ hvilke informationer, du ønsker at dele med den erhvervsdrivendes app eller
+-website
++website.
+ 
+ Du kan også anvende funktionen som login til en erhvervsdrivendes app eller
+ website. Dette fungerer kun, hvis du allerede har delt informationer med den
+ pågældende app eller website og forudsætter, at du har brugt MobilePay
+ Connect til at oprette en brugerprofil hos den erhvervsdrivende.
++
+ Når du anvender funktionen, vil det fremgå, hvortil du deler dine informationer.
+ Du vil altid have muligheden for at vælge præcis, hvilke informationer du ønsker
+ at dele med den erhvervsdrivende. Dog kan deling af visse informationer være
+ en forudsætning for, at du kan oprette en brugerprofil hos den
+ erhvervsdrivende.
+-
+-H1. Tilmelding til MobilePay Connect
++H1. Tilmelding til MobilePay Connect
+ Når du er registeret MobilePay-bruger, kan du benytte funktionen. Du vælger
+ selv hvilke erhvervsdrivende, du vil dele informationer med. Du skal give
+ samtykke til den erhvervsdrivendes adgang til dine informationer med
+@@ -1074,36 +1181,38 @@
+ 
+ Du skal være fyldt 18 år for at kunne bruge MobilePay Connect.
+ 
+-H2. Hvilke informationer kan deles / gives adgang til?
++H2. Hvilke informationer kan deles / gives adgang til
+ Du kan dele udvalgte informationer såsom navn og adresse. Du kan se den
+-fulde liste over informationer, som du kan dele, under din profil i MobilePay
+-appen.
++fulde liste over informationer, som du kan dele, under din profil i MobilePay-
++appen. Når du vælger at bruge MobilePay Connect og vælger at dele
++informationer med den erhvervsdrivende, samtykker du samtidig i, at
++MobilePay Denmark registrerer hvilke informationer, du har valgt at dele.
+ 
+ MobilePay Denmark registrerer, hvilke informationer du har delt, så du
+ efterfølgende kan logge dig på den erhvervsdrivendes app eller website via
+ MobilePay Connect. MobilePay Denmark bruger kun informationerne til at
+ administrere funktionen.
+-Informationen, du deler med den erhvervsdrivende, vil automatisk blive holdt
+-opdateret i overensstemmelse med de informationer, du har i din MobilePay
+-profil.
+ 
+-H3. Hvad bruges disse informationer til?
++Du skal være opmærksom på, at så længe du bruger MobilePay Connect, vil
++den erhvervsdrivende få mulighed for at få dine til enhver tid opdaterede
++informationer, som du har i din MobilePay-profil og som du har valgt at dele
++med den erhvervsdrivende.
++
++H3. Hvad bruges disse informationer til
+ MobilePay Denmark er ikke part i den eventuelle aftale, der indgås mellem dig
+ og den erhvervsdrivende i forbindelse med brugen af MobilePay Connect.
+ Du og den erhvervsdrivende skal selv aftale, til hvilke formål dine informationer
+-vil blive brugt. Det vil også ofte fremgå af den erhvervsdrivendes betingelser.
++vil blive brugt. Det vil også fremgå af den erhvervsdrivendes betingelser.
+ Alle spørgsmål eller eventuelle uoverensstemmelser med den
+ erhvervsdrivende, der får adgang til dine informationer, skal afklares direkte
+-med den pågældende erhvervsdrivende.
++med den pågældende erhvervsdrivende.
+ 
+-H4. Tilmelding til den erhvervsdrivendes app/website via MobilePay
+-Connect
++H4. Tilmelding til den erhvervsdrivendes app/website via MobilePay Connect
+ MobilePay Connect fungerer ved, at de informationer, du vælger at dele, vil
+ blive tilgængelige for den pågældende erhvervsdrivende via MobilePay A/S’
+ sikrede servere. Derefter vil du blive videreført til den erhvervsdrivendes app
+ eller website, hvor du kan færdiggøre din tilmelding.
+-
+-H5. Login til den erhvervsdrivendes app/website via MobilePay Connect
++H5. Login til den erhvervsdrivendes app/website via MobilePay Connect
+ Hvis du allerede har anvendt MobilePay Connect til at dele informationer med
+ en erhvervsdrivende, og du har valgt at tilmelde dig som bruger hos den
+ erhvervsdrivende, kan MobilePay Connect efterfølgende bruges som login hos
+@@ -1111,8 +1220,8 @@
+ 
+ H6. Framelding
+ Du kan når som helst stoppe med at dele dine informationer med en
+-erhvervsdrivende via MobilePay Connect. Dette administreres under
+-indstillinger i MobilePay-appen. Ved at stoppe med at dele informationer med
++erhvervsdrivende via MobilePay Connect. Dette administrerer du selv under
++’Indstillinger’ i MobilePay-appen. Ved at stoppe med at dele informationer med
+ den pågældende erhvervsdrivende i MobilePay ophører dit øvrige
+ engagement med den erhvervsdrivende ikke. Her skal du kontakte den
+ erhvervsdrivende direkte i henhold til den erhvervsdrivendes betingelser.
+@@ -1133,40 +1242,39 @@
+ MobilePay skatteindberetning af donationer gør det muligt for dig at sikre, at
+ den organisation, som du har doneret penge til, automatisk kan få de relevante
+ informationer fra dig til at kunne foretage en korrekt skatteindberetning, så du
+-kan få skattefradrag for dine donationer.
+-
+-Du kan få fradrag for gaver til velgørende foreninger, fonde, stiftelser,
+-institutioner og religiøse samfund, der er godkendt af SKAT.
+-
+-Du kan automatisk få dit fradrag, hvis du har givet organisationen dit CPR-
+-nummer.
++kan få skattefradrag for dine donationer. Du kan få fradrag for gaver til
++velgørende foreninger, fonde, stiftelser, institutioner og religiøse samfund, der
++er godkendt af SKAT. Du kan automatisk få dit fradrag, hvis du har givet
++organisationen dit CPR-nummer.
+ 
+ I1. Sådan aktiverer du skatteindberetning i MobilePay
+- Registrerede MobilePay-bruger kan benytte funktionen. Funktionen aktiveres
++ Registrerede MobilePay-brugere kan benytte funktionen. Funktionen aktiveres
+ under ‘Indstillinger’ i MobilePay-appen. Du skal bruge dit NemID til at
+ acceptere en overførsel af dit CPR-nummer til den organisation, du har doneret
+ til.
++Du skal være fyldt 18 år for at kunne bruge MobilePay-skatteindberetning.
+ 
+-Du skal være fyldt 18 år for at kunne bruge MobilePay-skatteindberetning.
+-
+-I2. Hvilke informationer kan overføres og/eller registreres, og hvad
+-bruges de til?
+-Du kan kun overføre dit CPR-nummer til velgørende foreninger, fonde, stiftelser,
+-institutioner og religiøse samfund, der er godkendt af SKAT og har en aftale
+-med MobilePay. Under ‘Hjælp’ i MobilePay-appen har du mulighed for at se en
+-liste over tilmeldte godkendte organisationer.
++I2. Hvilke informationer kan overføres og/eller registreres, og hvad bruges de
++til
++Du kan overføre dit CPR-nummer til velgørende foreninger, fonde, stiftelser,
++institutioner og religiøse samfund, der er godkendt af SKAT, og som har en
++aftale med MobilePay. Under ‘Hjælp’ i MobilePay-appen har du mulighed for
++at se en liste over tilmeldte godkendte organisationer.
+ 
+ Når du vælger at aktivere MobilePay-skatteindberetning og anmoder om
+-overførsel af dit CPR-nummer til en organisation, vil MobilePay Denmark sende
+-dit CPR-nummer til den organisation, som du donerer til. MobilePay Denmark
+-vil sende dit CPR-nummer hvert år i januar måned efter udløbet af det
+-kalenderår, hvor du har doneret penge, forudsat organisationen også på det
+-tidspunkt er tilmeldt funktionen.
++overførsel af dit CPR-nummer til en organisation, giver du samtidig samtykke til,
++at MobilePay Denmark sender dit CPR-nummer til den organisation, som du
++donerer til. Du giver også samtykke til, at MobilePay Denmark for hver af dine
++donationer overfører betalingsID, herunder dato og tid for donationen og det
++overførte beløb, så organisationen kan forbinde det med deres informationer
++om dine donationer til brug for skatteindberetningen. MobilePay Denmark vil
++sende dit CPR-nummer og information om de donerede beløb mv. hvert år i
++januar måned efter udløbet af det kalenderår, hvor du har doneret penge,
++forudsat organisationen også på det tidspunkt er tilmeldt funktionen.
+ Organisationen har indberetningspligten til SKAT og skal bruge dit CPR-
+ nummer for at kunne indberette dine donationer. Dit CPR-nummer vil
+ udelukkende blive anvendt til dette formål.
+-Foruden dit CPR-nummer overføres betalingsID, så organisationen kan
+-forbinde det med deres informationer om dine donationer.
++
+ 
+ I3.Framelding
+ Hvis du framelder dig MobilePay-skatteindberetning, vil dit CPR-nummer ikke
+@@ -1177,20 +1285,21 @@
+ 
+ I4.Organisationen skal være tilmeldt funktionen
+ Hvis organisationen ophører med at benytte funktionen efter din tilmelding, kan
+-vi ikke sende dit CPR-nummer samt betalingsID til organisationen. Du får ikke
+-besked herom, og vi anbefaler dig derfor at tjekke listen over tilmeldte
+-organisationer, så du kan kontakte organisationen, hvis du ønsker, at de skal
+-skatteindberette dine donationer.
++vi ikke sende dit CPR-nummer og information om donerede beløb mv. til
++organisationen. Du får ikke besked herom, og vi anbefaler dig derfor at tjekke
++listen over tilmeldte organisationer, så du kan kontakte organisationen, hvis du
++ønsker, at de skal skatteindberette dine donationer.
+ 
+ I5.Dit ansvar
+ Funktionen er personlig og kan kun benyttes af dig. Hvis du misbruger
+-funktionen, forbeholder vi os ret til at spærre din MobilePay-aftale.
++funktionen, forbeholder vi os ret til at spærre din MobilePay-aftale.
+ 
+ I6. MobilePay Denmarks ansvar
+ Vi stiller alene funktionen til rådighed for dig, så du får mulighed for at overføre
+-dit CPR-nummer til den organisation, du har doneret penge til, forudsat
+-organisationen er tilmeldt funktionen såvel på tidspunktet for din anmodning
+-om overførsel af CPR-nummer samt på tidspunktet for den faktiske overførsel.
++dit CPR-nummer og oplysninger om donerede beløb mv. til den organisation,
++du har doneret penge til, forudsat organisationen er tilmeldt funktionen såvel
++på tidspunktet for din anmodning om overførsel af CPR-nummer samt på
++tidspunktet for den faktiske donation.
+ MobilePay Denmark har intet med selve skatteindberetningen at gøre og
+ påtager sig intet ansvar for selve skatteindberetningen, herunder om den er
+ korrekt.
+@@ -1207,7 +1316,7 @@
+ betalingsaftale med, har en aftale med Mobilepay Denmark om at tilbyde
+ abonnementsbetalinger.
+ 
+-J.1. Abonnementsbetalinger med MobilePay
++J1. Abonnementsbetalinger med MobilePay
+ Det eneste, du skal gøre for at kunne bruge funktionen, er at vælge MobilePay
+ som betalingsform til dine tilbagevendende betalinger. Dette gør du ved at
+ forbinde en betalingsaftale om et abonnement til din MobilePay enten ved at
+@@ -1215,15 +1324,18 @@
+ mobilnummer (hvis det fx er fra en tablet eller desktop) eller alternativt scanne
+ en QR-kode udstillet af den erhvervsdrivende.
+ Du skal være fyldt 18 år, før du må benytte funktionen.
++
+ Når du har indgået aftalen med den erhvervsdrivende og godkendt
+ tilknytningen til din MobilePay, vil den erhvervsdrivende kunne fremsende
+ anmodninger om tilbagevendende betalinger til din MobilePay i
+ overensstemmende med din betalingsaftale med den erhvervsdrivende. Disse
+ anmodninger vil blive gennemført, uden at du skal godkende hver enkelt
+ anmodning.
++
+ Når du tilknytter MobilePay til din abonnementsaftale, vil den erhvervsdrivende
+-få et betalings-ID, som den erhvervsdrivende benytter til fremadrettede
+-betalinger. Dit mobilnummer eller andet overføres ikke til den erhvervsdrivende.
++få et betalings-ID, som den erhvervsdrivende benytter til fremadrettede
++betalinger. Dit mobilnummer eller andet overføres ikke til den erhvervsdrivende.
++
+ Du kan altid slette en abonnementsbetaling i din MobilePay, og derved vil den
+ erhvervsdrivende ikke fremadrettet kunne trække penge fra din MobilePay.
+ Du skal være opmærksom på, at sletning i MobilePay ikke er det samme som
+@@ -1234,15 +1346,17 @@
+ er ikke part i jeres aftale.
+ Den erhvervsdrivende vil umiddelbart efter din sletning modtage besked
+ herom.
++
+ Du kan afvise en betalingsanmodning indtil dagen før den aftalte
+ betalingsdato. Når en betaling er trukket, vil du ikke kunne tilbagekalde den
+-igen. Der henvises i øvrigt til punkt B4 og B5 om dine muligheder for
+-tilbageførsler for transaktioner, du har godkendt/ikke godkendt. Læs i øvrigt
+-også punkt J3 om særlige regler om tilbageførsel for MobilePay
++igen. Der henvises i øvrigt til punkt B4, B5 og B6 om dine muligheder for
++tilbageførsler af transaktioner, du har godkendt/ikke godkendt. Læs i øvrigt
++også punkt J3 om særlige regler om tilbageførsel af MobilePay
+ Abonnementsbetalinger.
++
+ Du kan altid se gennemførte betalinger under ‘Aktiviteter’ i MobilePay.
+ Du kan se i din MobilePay, hvilke abonnementsaftaler, du har tilknyttet din
+-MobilePay. Her vil du også kunne se, hvilke erhvervsdrivende, der tilbyder
++MobilePay. Her vil du også kunne se hvilke erhvervsdrivende, der tilbyder
+ denne betalingsform.
+ Du skal være opmærksom på, at hvis den erhvervsdrivendes aftale om
+ MobilePay Abonnementsaftaler ophører, uanset af hvilken årsag, så vil din
+@@ -1258,30 +1372,30 @@
+ 
+ J3. Tilbageførsel abonnementsbetalinger
+ Hvis du ikke kendte det præcise beløb, da du godkendte betalingen, og det
+-beløb, der efterfølgende bliver trukket med din MobilePay, er væsentligt højere
+-end hvad der med rimelighed kunne forventes bl.a. under hensyn til dit tidligere
+-udgiftsmønster og disse betingelser, kan du have krav på tilbageførsel af
++beløb, der efterfølgende bliver trukket med din MobilePay, oversteg hvad der
++med rimelighed kunne forventes bl.a. under hensyn til dit tidligere
++udgiftsmønster og disse betingelser, kan du have krav på tilbageførsel af
+ betalingen.
+ 
+ Du skal kontakte os senest otte uger, efter at beløbet er trukket med din
+ MobilePay, hvis du mener at have krav på at få tilbageført en betaling, hvor du
+ ikke har godkendt det endelige beløb.
+ Du har dog ikke krav på tilbagebetaling, hvis du har givet samtykke til at
+-gennemføre betalingen direkte i MobilePay, og, hvor det er relevant,
+-oplysninger om den fremtidige betaling har været tilgængelig for dig mindst 4
+-uger inden forfaldsdagen.
++gennemføre betalingen direkte i MobilePay, og, oplysninger om den fremtidige
++betaling har været tilgængelig for dig mindst 4 uger inden forfaldsdagen.
+ 
+ J4. Dit ansvar
+ MobilePay Abonnementsbetalinger er et personligt produkt og må kun
+ benyttes af dig.
++
+ Hvis de tjenesteydelser/varer, du modtager fra den erhvervsdrivende i henhold
+ til jeres aftale, er fejlbehæftede eller ikke svarer til det aftalte, skal du selv rette
+ henvendelse til den erhvervsdrivende.
++
+ Det er dit ansvar løbende at kontrollere dine aktiviteter i MobilePay - læs mere
+ om din pligt til løbende at kontrollere dine MobilePay-posteringer under B3.
+-
+ Det er desuden dit ansvar at sikre, at du overholder betingelserne for brug af
+-MobilePay.
++MobilePay – læs særligt pkt. A og B.
+ 
+ J5. MobilePay Denmarks ansvar
+ MobilePay Denmark er ikke part i aftalen mellem dig og den erhvervsdrivende
+@@ -1293,12 +1407,14 @@
+ J6. Opbevaring af MobilePay Abonnementsbetalings-aftaler
+ Mobilepay Denmark opbevarer ingen abonnements/betalingsaftaler for dig. Vi
+ har alene registreret din tilknytning til MobilePay.
+-Vi opbevarer informationer om dine betalinger foretaget i henhold til dine
+-tilknyttede abonnementsaftaler i mindst 13 mdr. Hvis du har behov for at
+-opbevare dem i længere tid, anbefaler vi dig at printe dem.
++
++Du kan se informationer om dine betalinger foretaget i henhold til dine
++tilknyttede abonnementsaftaler i mindst 13 måneder under ’Aktiviteter’ . Hvis
++du har behov for at opbevare dem i længere tid, anbefaler vi dig at printe dem.
++
+ Såfremt din aftale om MobilePay ophører, uanset af hvilken årsag, vil du ikke
+ længere have adgang til dine tilknyttede betalingsaftaler i MobilePay, og det
+ vil fra tidspunktet for ophør ikke længere være muligt at foretage betalinger
+ med MobilePay. Det samme gælder, hvis den erhvervsdrivendes aftale med
+-MobilePay Denmark ophører --- uanset af hvilken årsag.
++MobilePay Denmark ophører – uanset af hvilken årsag.
+ 
+\ No newline at end of file
